@@ -1,0 +1,16 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #f7f9fa;
+    /* Very soft off-white/grey */
+    margin: 0;
+    padding: 0;
+    color: #2c3e50;
+    /* Dark slate text */
+}
+
+h1,
+h2,
+h3,
+.serif-text {
+    font-family: Georgia, 'Times New Roman', serif;
+}
