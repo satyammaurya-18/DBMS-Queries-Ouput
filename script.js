@@ -14,3 +14,6 @@ function displayPrograms(data) {
         grid.innerHTML += card;
     });
 }
+
+// Initial call to show all 60+ queries
+displayPrograms(queryData);
