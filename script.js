@@ -12,5 +12,5 @@ function displayPrograms(data) {
             </a>
         `;
         grid.innerHTML += card;
-    });
+    })
 }
