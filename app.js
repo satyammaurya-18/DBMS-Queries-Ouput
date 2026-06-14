@@ -47,3 +47,22 @@ function openList(category) {
 
     switchView('query-list-view');
 }
+
+function openDetail(id) {
+    const query = queryData.find(q => q.id === id);
+    if(query) {
+        document.getElementById('detail-title').innerText = query.title;
+        
+        document.getElementById('detail-input-img').src = query.inputImg;
+        document.getElementById('detail-output-img').src = query.outputImg;
+
+        document.getElementById('back-to-list-btn').onclick = () => openList(currentActiveCategory);
+        switchView('query-detail-view');
+    }
+}
+
+window.onload = () => {
+    if(document.getElementById('category-table-body')) {
+        renderCategories();
+    }
+};
