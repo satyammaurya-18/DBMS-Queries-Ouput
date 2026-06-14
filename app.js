@@ -25,3 +25,25 @@ function renderCategories() {
         tbody.appendChild(row);
     });
 }
+
+function openList(category) {
+    currentActiveCategory = category;
+    document.getElementById('list-category-title').innerText = "DBMS - " + category;
+    
+    const filtered = queryData.filter(q => q.category === category);
+    
+    const tbody = document.getElementById('query-list-table-body');
+    tbody.innerHTML = '';
+
+    filtered.forEach((q, index) => {
+        const row = document.createElement('tr');
+        row.onclick = () => openDetail(q.id);
+        row.innerHTML = `
+            <td>${index + 1}</td>
+            <td>${q.title}</td>
+        `;
+        tbody.appendChild(row);
+    });
+
+    switchView('query-list-view');
+}
