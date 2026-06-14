@@ -85,7 +85,7 @@ DBMS-Queries/
 
 ---
 
-## <img src="https://img.icons8.com/color/48/purpose.png" width="25"> Use Cases
+## <img src="https://img.icons8.com/color/48/student-center.png" width="25"> Use Cases
 
 This platform can be used by:
 
