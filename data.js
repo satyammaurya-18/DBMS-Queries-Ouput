@@ -204,3 +204,178 @@ const whereData = [
         inputImg: "where/input/15.png",
         outputImg: "where/output/15.png"
     },
+    {
+        id: 26,
+        category: "Where Clause",
+        title: "Display employees whose name starts with 'A'.",
+        inputImg: "where/input/16.png",
+        outputImg: "where/output/16.png"
+    },
+    {
+        id: 27,
+        category: "Where Clause",
+        title: "Display employees whose name ends with 'N'.",
+        inputImg: "where/input/17.png",
+        outputImg: "where/output/17.png"
+    },
+    {
+        id: 28,
+        category: "Where Clause",
+        title: "Display employees whose name contains 'LL'.",
+        inputImg: "where/input/18.png",
+        outputImg: "where/output/18.png"
+    },
+    {
+        id: 29,
+        category: "Where Clause",
+        title: "Display employees whose name has exactly 5 characters.",
+        inputImg: "where/input/19.png",
+        outputImg: "where/output/19.png"
+    },
+    {
+        id: 30,
+        category: "Where Clause",
+        title: "Display employees whose second character is 'A'.",
+        inputImg: "where/input/20.png",
+        outputImg: "where/output/20.png"
+    },
+    {
+        id: 31,
+        category: "Where Clause",
+        title: "Display all employees ordered by salary in ascending order.",
+        inputImg: "where/input/21.png",
+        outputImg: "where/output/21.png"
+    },
+    {
+        id: 32,
+        category: "Where Clause",
+        title: "Display all employees ordered by salary in descending order.",
+        inputImg: "where/input/22.png",
+        outputImg: "where/output/22.png"
+    },
+    {
+        id: 33,
+        category: "Where Clause",
+        title: "Display employees ordered by hire date.",
+        inputImg: "where/input/23.png",
+        outputImg: "where/output/23.png"
+    },
+    {
+        id: 34,
+        category: "Where Clause",
+        title: "Display employees ordered by department number and salary.",
+        inputImg: "where/input/24.png",
+        outputImg: "where/output/24.png"
+    },
+    {
+        id: 35,
+        category: "Where Clause",
+        title: "Display employees ordered by job (ascending) and salary (descending).",
+        inputImg: "where/input/25.png",
+        outputImg: "where/output/25.png"
+    },
+    {
+        id: 36,
+        category: "Where Clause",
+        title: "Display employee names ordered alphabetically.",
+        inputImg: "where/input/26.png",
+        outputImg: "where/output/26.png"
+    },
+    {
+        id: 37,
+        category: "Where Clause",
+        title: "Display employees of department 30 ordered by salary.",
+        inputImg: "where/input/27.png",
+        outputImg: "where/output/27.png"
+    },
+    {
+        id: 38,
+        category: "Where Clause",
+        title: "Display employees ordered by annual salary.",
+        inputImg: "where/input/28.png",
+        outputImg: "where/output/28.png"
+    },
+    {
+        id: 39,
+        category: "Where Clause",
+        title: "Display employees ordered by commission.",
+        inputImg: "where/input/29.png",
+        outputImg: "where/output/29.png"
+    },
+    {
+        id: 40,
+        category: "Where Clause",
+        title: "Display employees ordered by job and name.",
+        inputImg: "where/input/30.png",
+        outputImg: "where/output/30.png"
+    },
+    {
+        id: 41,
+        category: "Where Clause",
+        title: "Display employee name as Employee_Name.",
+        inputImg: "where/input/31.png",
+        outputImg: "where/output/31.png"
+    },
+    {
+        id: 42,
+        category: "Where Clause",
+        title: "Display salary as Monthly_Salary.",
+        inputImg: "where/input/32.png",
+        outputImg: "where/output/32.png"
+    },
+    {
+        id: 43,
+        category: "Where Clause",
+        title: "Display salary × 12 as Annual_Salary.",
+        inputImg: "where/input/33.png",
+        outputImg: "where/output/33.png"
+    },
+    {
+        id: 44,
+        category: "Where Clause",
+        title: "Display employee name and job with aliases.",
+        inputImg: "where/input/34.png",
+        outputImg: "where/output/34.png"
+    },
+    {
+        id: 45,
+        category: "Where Clause",
+        title: "Display department number as Dept_No.",
+        inputImg: "where/input/35.png",
+        outputImg: "where/output/35.png"
+    },
+    {
+        id: 46,
+        category: "Where Clause",
+        title: "Display employee name and salary with meaningful aliases.",
+        inputImg: "where/input/36.png",
+        outputImg: "where/output/36.png"
+    },
+    {
+        id: 47,
+        category: "Where Clause",
+        title: "Display commission as Incentive.",
+        inputImg: "where/input/37.png",
+        outputImg: "where/output/37.png"
+    },
+    {
+        id: 48,
+        category: "Where Clause",
+        title: "Display hire date as Joining_Date.",
+        inputImg: "where/input/38.png",
+        outputImg: "where/output/38.png"
+    },
+    {
+        id: 49,
+        category: "Where Clause",
+        title: "Display employee name and department number with aliases.",
+        inputImg: "where/input/39.png",
+        outputImg: "where/output/39.png"
+    },
+    {
+        id: 50,
+        category: "Where Clause",
+        title: "Display job and salary using aliases.",
+        inputImg: "where/input/40.png",
+        outputImg: "where/output/40.png"
+    },
