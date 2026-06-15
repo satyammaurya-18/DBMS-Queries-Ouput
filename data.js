@@ -1,0 +1,26 @@
+// The list of your categories
+const categories = [
+    "Select Query",
+    "Where Clause",
+    "Like Operator",
+    "Group Function, Group By, Having",
+    "Subqueries",
+    "Order By & Alias",
+    "Joins",
+    "Set Operators",
+    "Views",
+    "Scalar Functions",
+    "DDL Commands",
+    "DML Commands",
+    "DQL Commands",
+    "TCL & DCL Commands",
+    "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS",
+    "PL/SQL: DECISION CONTROL STATEMENT",
+    "PL/SQL: ITERATIVE CONTROL STATEMENT",
+    "PL/SQL: SELECT, %TYPE AND %ROWTYPE",
+    "PL/SQL: CURSORS",
+    "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS",
+    "PL/SQL: PACKAGES",
+    "PL/SQL: EXCEPTION HANDLING",
+    "PL/SQL: TRIGGERS"
+];
