@@ -379,3 +379,145 @@ const whereData = [
         inputImg: "where/input/40.png",
         outputImg: "where/output/40.png"
     },
+    {
+        id: 51,
+        category: "Where Clause",
+        title: "Display employees whose commission is NULL.",
+        inputImg: "where/input/41.png",
+        outputImg: "where/output/41.png"
+    },
+    {
+        id: 52,
+        category: "Where Clause",
+        title: "Display employees who are getting commission.",
+        inputImg: "where/input/42.png",
+        outputImg: "where/output/42.png"
+    },
+    {
+        id: 53,
+        category: "Where Clause",
+        title: "Display employees who do not have a manager.",
+        inputImg: "where/input/43.png",
+        outputImg: "where/output/43.png"
+    },
+    {
+        id: 54,
+        category: "Where Clause",
+        title: "Display employees whose manager is not NULL.",
+        inputImg: "where/input/44.png",
+        outputImg: "where/output/44.png"
+    },
+    {
+        id: 55,
+        category: "Where Clause",
+        title: "Display employees whose commission is NULL and salary > 2000.",
+        inputImg: "where/input/45.png",
+        outputImg: "where/output/45.png"
+    },
+    {
+        id: 56,
+        category: "Where Clause",
+        title: "Display employees whose commission is NULL or salary > 3000.",
+        inputImg: "where/input/46.png",
+        outputImg: "where/output/46.png"
+    },
+    {
+        id: 57,
+        category: "Where Clause",
+        title: "Display employees whose commission is NOT NULL and department is 30.",
+        inputImg: "where/input/47.png",
+        outputImg: "where/output/47.png"
+    },
+    {
+        id: 58,
+        category: "Where Clause",
+        title: "Display employees who do not earn commission and work in department 20.",
+        inputImg: "where/input/48.png",
+        outputImg: "where/output/48.png"
+    },
+    {
+        id: 59,
+        category: "Where Clause",
+        title: "Display employees whose manager is NULL and salary > 4000.",
+        inputImg: "where/input/49.png",
+        outputImg: "where/output/49.png"
+    },
+    {
+        id: 60,
+        category: "Where Clause",
+        title: "Display employees whose commission is NULL but job is SALESMAN.",
+        inputImg: "where/input/50.png",
+        outputImg: "where/output/50.png"
+    },
+    {
+        id: 61,
+        category: "Where Clause",
+        title: "Display employee name and annual salary, ordered by annual salary.",
+        inputImg: "where/input/51.png",
+        outputImg: "where/output/51.png"
+    },
+    {
+        id: 62,
+        category: "Where Clause",
+        title: "Display employees whose commission is NULL, ordered by salary descending.",
+        inputImg: "where/input/52.png",
+        outputImg: "where/output/52.png"
+    },
+    {
+        id: 63,
+        category: "Where Clause",
+        title: "Display employee name as Name and salary as Pay for department 10.",
+        inputImg: "where/input/53.png",
+        outputImg: "where/output/53.png"
+    },
+    {
+        id: 64,
+        category: "Where Clause",
+        title: "Display employees hired before 1982 with aliases, ordered by hire date.",
+        inputImg: "where/input/54.png",
+        outputImg: "where/output/54.png"
+    },
+    {
+        id: 65,
+        category: "Where Clause",
+        title: "Display employees whose name starts with 'S', ordered by salary.",
+        inputImg: "where/input/55.png",
+        outputImg: "where/output/55.png"
+    },
+    {
+        id: 66,
+        category: "Where Clause",
+        title: "Display employee name and department, ordered by department and name.",
+        inputImg: "where/input/56.png",
+        outputImg: "where/output/56.png"
+    },
+    {
+        id: 67,
+        category: "Where Clause",
+        title: "Display employees whose salary is between 1500 and 3000, ordered by salary.",
+        inputImg: "where/input/57.png",
+        outputImg: "where/output/57.png"
+    },
+    {
+        id: 68,
+        category: "Where Clause",
+        title: "Display employees whose commission is NOT NULL, ordered by commission.",
+        inputImg: "where/input/58.png",
+        outputImg: "where/output/58.png"
+    },
+    {
+        id: 69,
+        category: "Where Clause",
+        title: "Display employees of department 30 whose salary > 1500, ordered by salary.",
+        inputImg: "where/input/59.png",
+        outputImg: "where/output/59.png"
+    },
+    {
+        id: 70,
+        category: "Where Clause",
+        title: "Display employee name, job, and salary with aliases, ordered by job.",
+        inputImg: "where/input/60.png",
+        outputImg: "where/output/60.png"
+    }
+
+];
