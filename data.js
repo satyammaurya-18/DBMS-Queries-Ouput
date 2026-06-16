@@ -589,3 +589,26 @@ const likeData = [
     { id: 129, category: "Like Operator", title: "Display employees whose name contains A and E in any order.", inputImg: "like/input/59.png", outputImg: "like/output/59.png" },
     { id: 130, category: "Like Operator", title: "Display employees whose name contains A but not as the first character.", inputImg: "like/input/60.png", outputImg: "like/output/60.png" }
 ];
+
+const groupData = [
+    { id: 131, category: "Group Function, Group By, Having", title: "Display the total number of employees.", inputImg: "group/input/1.png", outputImg: "group/output/1.png" },
+    { id: 132, category: "Group Function, Group By, Having", title: "Display the total salary of all employees.", inputImg: "group/input/2.png", outputImg: "group/output/2.png" },
+    { id: 133, category: "Group Function, Group By, Having", title: "Display the average salary of all employees.", inputImg: "group/input/3.png", outputImg: "group/output/3.png" },
+    { id: 134, category: "Group Function, Group By, Having", title: "Display the highest salary.", inputImg: "group/input/4.png", outputImg: "group/output/4.png" },
+    { id: 135, category: "Group Function, Group By, Having", title: "Display the lowest salary.", inputImg: "group/input/5.png", outputImg: "group/output/5.png" },
+    { id: 136, category: "Group Function, Group By, Having", title: "Display the total number of departments in EMP table.", inputImg: "group/input/6.png", outputImg: "group/output/6.png" },
+    { id: 137, category: "Group Function, Group By, Having", title: "Display the number of employees who are managers.", inputImg: "group/input/7.png", outputImg: "group/output/7.png" },
+    { id: 138, category: "Group Function, Group By, Having", title: "Display the total commission paid to employees.", inputImg: "group/input/8.png", outputImg: "group/output/8.png" },
+    { id: 139, category: "Group Function, Group By, Having", title: "Display the average commission.", inputImg: "group/input/9.png", outputImg: "group/output/9.png" },
+    { id: 140, category: "Group Function, Group By, Having", title: "Display the number of employees who are getting commission.", inputImg: "group/input/10.png", outputImg: "group/output/10.png" },
+
+    { id: 141, category: "Group Function, Group By, Having", title: "Display department-wise total salary.", inputImg: "group/input/11.png", outputImg: "group/output/11.png" },
+    { id: 142, category: "Group Function, Group By, Having", title: "Display department-wise average salary.", inputImg: "group/input/12.png", outputImg: "group/output/12.png" },
+    { id: 143, category: "Group Function, Group By, Having", title: "Display department-wise number of employees.", inputImg: "group/input/13.png", outputImg: "group/output/13.png" },
+    { id: 144, category: "Group Function, Group By, Having", title: "Display job-wise number of employees.", inputImg: "group/input/14.png", outputImg: "group/output/14.png" },
+    { id: 145, category: "Group Function, Group By, Having", title: "Display job-wise total salary.", inputImg: "group/input/15.png", outputImg: "group/output/15.png" },
+    { id: 146, category: "Group Function, Group By, Having", title: "Display job-wise maximum salary.", inputImg: "group/input/16.png", outputImg: "group/output/16.png" },
+    { id: 147, category: "Group Function, Group By, Having", title: "Display job-wise minimum salary.", inputImg: "group/input/17.png", outputImg: "group/output/17.png" },
+    { id: 148, category: "Group Function, Group By, Having", title: "Display department-wise maximum salary.", inputImg: "group/input/18.png", outputImg: "group/output/18.png" },
+    { id: 149, category: "Group Function, Group By, Having", title: "Display department-wise minimum salary.", inputImg: "group/input/19.png", outputImg: "group/output/19.png" },
+    { id: 150, category: "Group Function, Group By, Having", title: "Display department-wise average commission.", inputImg: "group/input/20.png", outputImg: "group/output/20.png" },
