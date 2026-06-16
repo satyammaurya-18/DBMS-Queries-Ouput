@@ -668,3 +668,33 @@ const groupData = [
     { id: 199, category: "Group Function, Group By, Having", title: "Display department where sum of salaries is maximum.", inputImg: "group/input/69.png", outputImg: "group/output/69.png" },
     { id: 200, category: "Group Function, Group By, Having", title: "Display job having minimum average salary.", inputImg: "group/input/70.png", outputImg: "group/output/70.png" }
 ];
+
+const subqueryData = [
+    { id: 201, category: "Subqueries", title: "Display employees whose salary is greater than JONES.", inputImg: "subquery/input/1.png", outputImg: "subquery/output/1.png" },
+    { id: 202, category: "Subqueries", title: "Display employees earning the same salary as SCOTT.", inputImg: "subquery/input/2.png", outputImg: "subquery/output/2.png" },
+    { id: 203, category: "Subqueries", title: "Display employees hired after ALLEN.", inputImg: "subquery/input/3.png", outputImg: "subquery/output/3.png" },
+    { id: 204, category: "Subqueries", title: "Display employees working in the same department as BLAKE.", inputImg: "subquery/input/4.png", outputImg: "subquery/output/4.png" },
+    { id: 205, category: "Subqueries", title: "Display employees having the same job as MILLER.", inputImg: "subquery/input/5.png", outputImg: "subquery/output/5.png" },
+    { id: 206, category: "Subqueries", title: "Display employees earning less than the average salary.", inputImg: "subquery/input/6.png", outputImg: "subquery/output/6.png" },
+    { id: 207, category: "Subqueries", title: "Display employees earning more than the maximum salary of CLERKs.", inputImg: "subquery/input/7.png", outputImg: "subquery/output/7.png" },
+    { id: 208, category: "Subqueries", title: "Display employee(s) with the minimum salary.", inputImg: "subquery/input/8.png", outputImg: "subquery/output/8.png" },
+    { id: 209, category: "Subqueries", title: "Display employee(s) with the maximum salary.", inputImg: "subquery/input/9.png", outputImg: "subquery/output/9.png" },
+    { id: 210, category: "Subqueries", title: "Display employees working in the department named ACCOUNTING.", inputImg: "subquery/input/10.png", outputImg: "subquery/output/10.png" },
+
+    { id: 211, category: "Subqueries", title: "Display employees working in departments located in NEW YORK.", inputImg: "subquery/input/11.png", outputImg: "subquery/output/11.png" },
+    { id: 212, category: "Subqueries", title: "Display employees whose salary matches any salary in department 30.", inputImg: "subquery/input/12.png", outputImg: "subquery/output/12.png" },
+    { id: 213, category: "Subqueries", title: "Display employees earning more than all CLERKs.", inputImg: "subquery/input/13.png", outputImg: "subquery/output/13.png" },
+    { id: 214, category: "Subqueries", title: "Display employees earning less than any MANAGER.", inputImg: "subquery/input/14.png", outputImg: "subquery/output/14.png" },
+    { id: 215, category: "Subqueries", title: "Display employees whose job appears in department 20.", inputImg: "subquery/input/15.png", outputImg: "subquery/output/15.png" },
+    { id: 216, category: "Subqueries", title: "Display employees whose department has at least one SALESMAN.", inputImg: "subquery/input/16.png", outputImg: "subquery/output/16.png" },
+    { id: 217, category: "Subqueries", title: "Display employees earning the same salary as any CLERK.", inputImg: "subquery/input/17.png", outputImg: "subquery/output/17.png" },
+    { id: 218, category: "Subqueries", title: "Display employees who are not working in departments of SALESMAN.", inputImg: "subquery/input/18.png", outputImg: "subquery/output/18.png" },
+    { id: 219, category: "Subqueries", title: "Display employees earning more than all employees in department 10.", inputImg: "subquery/input/19.png", outputImg: "subquery/output/19.png" },
+    { id: 220, category: "Subqueries", title: "Display employees whose department number is among departments with more than 3 employees.", inputImg: "subquery/input/20.png", outputImg: "subquery/output/20.png" },
+
+    { id: 221, category: "Subqueries", title: "Display employees earning more than the department average salary.", inputImg: "subquery/input/21.png", outputImg: "subquery/output/21.png" },
+    { id: 222, category: "Subqueries", title: "Display employees earning the highest salary in each department.", inputImg: "subquery/input/22.png", outputImg: "subquery/output/22.png" },
+    { id: 223, category: "Subqueries", title: "Display employees earning the lowest salary in each job.", inputImg: "subquery/input/23.png", outputImg: "subquery/output/23.png" },
+    { id: 224, category: "Subqueries", title: "Display departments having total salary greater than department 20.", inputImg: "subquery/input/24.png", outputImg: "subquery/output/24.png" },
+    { id: 225, category: "Subqueries", title: "Display employees whose salary equals the maximum salary of their job.", inputImg: "subquery/input/25.png", outputImg: "subquery/output/25.png" },
+  
