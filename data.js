@@ -521,3 +521,37 @@ const whereData = [
     }
 
 ];
+
+const likeData = [
+    { id: 71, category: "Like Operator", title: "Display employees whose name starts with A.", inputImg: "like/input/1.png", outputImg: "like/output/1.png" },
+    { id: 72, category: "Like Operator", title: "Display employees whose name starts with S.", inputImg: "like/input/2.png", outputImg: "like/output/2.png" },
+    { id: 73, category: "Like Operator", title: "Display employees whose name ends with N.", inputImg: "like/input/3.png", outputImg: "like/output/3.png" },
+    { id: 74, category: "Like Operator", title: "Display employees whose name ends with R.", inputImg: "like/input/4.png", outputImg: "like/output/4.png" },
+    { id: 75, category: "Like Operator", title: "Display employees whose name contains LL.", inputImg: "like/input/5.png", outputImg: "like/output/5.png" },
+    { id: 76, category: "Like Operator", title: "Display employees whose name contains AR.", inputImg: "like/input/6.png", outputImg: "like/output/6.png" },
+    { id: 77, category: "Like Operator", title: "Display employees whose job starts with M.", inputImg: "like/input/7.png", outputImg: "like/output/7.png" },
+    { id: 78, category: "Like Operator", title: "Display employees whose job ends with AN.", inputImg: "like/input/8.png", outputImg: "like/output/8.png" },
+    { id: 79, category: "Like Operator", title: "Display employees whose job contains CL.", inputImg: "like/input/9.png", outputImg: "like/output/9.png" },
+    { id: 80, category: "Like Operator", title: "Display departments whose location starts with N.", inputImg: "like/input/10.png", outputImg: "like/output/10.png" },
+
+    { id: 81, category: "Like Operator", title: "Display employees whose name has exactly 4 characters.", inputImg: "like/input/11.png", outputImg: "like/output/11.png" },
+    { id: 82, category: "Like Operator", title: "Display employees whose name has exactly 5 characters.", inputImg: "like/input/12.png", outputImg: "like/output/12.png" },
+    { id: 83, category: "Like Operator", title: "Display employees whose name has A as the second character.", inputImg: "like/input/13.png", outputImg: "like/output/13.png" },
+    { id: 84, category: "Like Operator", title: "Display employees whose name has L as the third character.", inputImg: "like/input/14.png", outputImg: "like/output/14.png" },
+    { id: 85, category: "Like Operator", title: "Display employees whose job has exactly 6 characters.", inputImg: "like/input/15.png", outputImg: "like/output/15.png" },
+    { id: 86, category: "Like Operator", title: "Display employees whose name starts with any letter but ends with N.", inputImg: "like/input/16.png", outputImg: "like/output/16.png" },
+    { id: 87, category: "Like Operator", title: "Display employees whose job starts with any one character and ends with ER.", inputImg: "like/input/17.png", outputImg: "like/output/17.png" },
+    { id: 88, category: "Like Operator", title: "Display employees whose name has A as the first and N as the last character.", inputImg: "like/input/18.png", outputImg: "like/output/18.png" },
+    { id: 89, category: "Like Operator", title: "Display employees whose name has exactly 2 characters before 'E'.", inputImg: "like/input/19.png", outputImg: "like/output/19.png" },
+    { id: 90, category: "Like Operator", title: "Display employees whose name has exactly 1 character after 'A'.", inputImg: "like/input/20.png", outputImg: "like/output/20.png" },
+
+    { id: 91, category: "Like Operator", title: "Display employees whose name starts with A and ends with N.", inputImg: "like/input/21.png", outputImg: "like/output/21.png" },
+    { id: 92, category: "Like Operator", title: "Display employees whose name contains E anywhere.", inputImg: "like/input/22.png", outputImg: "like/output/22.png" },
+    { id: 93, category: "Like Operator", title: "Display employees whose name does not contain A.", inputImg: "like/input/23.png", outputImg: "like/output/23.png" },
+    { id: 94, category: "Like Operator", title: "Display employees whose job contains MAN.", inputImg: "like/input/24.png", outputImg: "like/output/24.png" },
+    { id: 95, category: "Like Operator", title: "Display employees whose job does not start with C.", inputImg: "like/input/25.png", outputImg: "like/output/25.png" },
+    { id: 96, category: "Like Operator", title: "Display employees whose name contains two L consecutively.", inputImg: "like/input/26.png", outputImg: "like/output/26.png" },
+    { id: 97, category: "Like Operator", title: "Display employees whose name starts with J and has S anywhere.", inputImg: "like/input/27.png", outputImg: "like/output/27.png" },
+    { id: 98, category: "Like Operator", title: "Display employees whose job starts with S and ends with AN.", inputImg: "like/input/28.png", outputImg: "like/output/28.png" },
+    { id: 99, category: "Like Operator", title: "Display employees whose name contains A as the second last character.", inputImg: "like/input/29.png", outputImg: "like/output/29.png" },
+    { id: 100, category: "Like Operator", title: "Display employees whose name contains exactly one character between A and E.", inputImg: "like/input/30.png", outputImg: "like/output/30.png" },
