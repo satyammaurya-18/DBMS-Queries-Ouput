@@ -724,3 +724,26 @@ const subqueryData = [
     { id: 248, category: "Subqueries", title: "Display departments where all employees get commission.", inputImg: "subquery/input/48.png", outputImg: "subquery/output/48.png" },
     { id: 249, category: "Subqueries", title: "Display employees whose department has no CLERKs.", inputImg: "subquery/input/49.png", outputImg: "subquery/output/49.png" },
     { id: 250, category: "Subqueries", title: "Display employees who work in departments located in CHICAGO.", inputImg: "subquery/input/50.png", outputImg: "subquery/output/50.png" },
+
+    { id: 251, category: "Subqueries", title: "Display department number and average salary of employees whose salary is greater than 2000.", inputImg: "subquery/input/51.png", outputImg: "subquery/output/51.png" },
+    { id: 252, category: "Subqueries", title: "Display job and total salary of employees earning more than the department average.", inputImg: "subquery/input/52.png", outputImg: "subquery/output/52.png" },
+    { id: 253, category: "Subqueries", title: "Display departments having average salary greater than overall average salary.", inputImg: "subquery/input/53.png", outputImg: "subquery/output/53.png" },
+    { id: 254, category: "Subqueries", title: "Display job-wise employee count from employees earning more than 1500.", inputImg: "subquery/input/54.png", outputImg: "subquery/output/54.png" },
+    { id: 255, category: "Subqueries", title: "Display departments having more than 2 employees earning commission.", inputImg: "subquery/input/55.png", outputImg: "subquery/output/55.png" },
+    { id: 256, category: "Subqueries", title: "Display job and maximum salary from employees hired after 1981.", inputImg: "subquery/input/56.png", outputImg: "subquery/output/56.png" },
+    { id: 257, category: "Subqueries", title: "Display department-wise total salary excluding department 30.", inputImg: "subquery/input/57.png", outputImg: "subquery/output/57.png" },
+    { id: 258, category: "Subqueries", title: "Display departments having total salary greater than overall total salary average.", inputImg: "subquery/input/58.png", outputImg: "subquery/output/58.png" },
+    { id: 259, category: "Subqueries", title: "Display job-wise average salary where department has more than 3 employees.", inputImg: "subquery/input/59.png", outputImg: "subquery/output/59.png" },
+    { id: 260, category: "Subqueries", title: "Display department and job having maximum total salary.", inputImg: "subquery/input/60.png", outputImg: "subquery/output/60.png" },
+
+    { id: 261, category: "Subqueries", title: "Display employees earning the second highest salary.", inputImg: "subquery/input/61.png", outputImg: "subquery/output/61.png" },
+    { id: 262, category: "Subqueries", title: "Display employees earning the third highest salary.", inputImg: "subquery/input/62.png", outputImg: "subquery/output/62.png" },
+    { id: 263, category: "Subqueries", title: "Display employees whose salary is greater than 50% of employees.", inputImg: "subquery/input/63.png", outputImg: "subquery/output/63.png" },
+    { id: 264, category: "Subqueries", title: "Display employees earning more than the median salary.", inputImg: "subquery/input/64.png", outputImg: "subquery/output/64.png" },
+    { id: 265, category: "Subqueries", title: "Display employees whose salary is equal to department-wise second highest salary.", inputImg: "subquery/input/65.png", outputImg: "subquery/output/65.png" },
+    { id: 266, category: "Subqueries", title: "Display employees whose salary is less than all MANAGERS but more than any CLERK.", inputImg: "subquery/input/66.png", outputImg: "subquery/output/66.png" },
+    { id: 267, category: "Subqueries", title: "Display departments where maximum salary equals minimum salary.", inputImg: "subquery/input/67.png", outputImg: "subquery/output/67.png" },
+    { id: 268, category: "Subqueries", title: "Display employees earning more than the average salary of departments located in DALLAS.", inputImg: "subquery/input/68.png", outputImg: "subquery/output/68.png" },
+    { id: 269, category: "Subqueries", title: "Display jobs where average salary is greater than overall average salary.", inputImg: "subquery/input/69.png", outputImg: "subquery/output/69.png" },
+    { id: 270, category: "Subqueries", title: "Display employees whose salary is greater than salary of their manager.", inputImg: "subquery/input/70.png", outputImg: "subquery/output/70.png" }
+];
