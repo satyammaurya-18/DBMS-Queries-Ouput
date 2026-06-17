@@ -848,3 +848,15 @@ const joinData = [
     { id: 357, category: "Joins", title: "Display employees and department names ordered by employee name.", inputImg: "join/input/48.png", outputImg: "join/output/48.png" },
     { id: 358, category: "Joins", title: "Display employees and managers with salaries ordered by salary.", inputImg: "join/input/49.png", outputImg: "join/output/49.png" },
     { id: 359, category: "Joins", title: "Display employees and department names where salary between 2000 and 4000.", inputImg: "join/input/50.png", outputImg: "join/output/50.png" },
+
+    { id: 360, category: "Joins", title: "Display employees working in departments located in NEW YORK with salary > 2000.", inputImg: "join/input/51.png", outputImg: "join/output/51.png" },
+    { id: 361, category: "Joins", title: "Display employees and department names where job is ANALYST.", inputImg: "join/input/52.png", outputImg: "join/output/52.png" },
+    { id: 362, category: "Joins", title: "Display employee and department names ordered by department and salary.", inputImg: "join/input/53.png", outputImg: "join/output/53.png" },
+    { id: 363, category: "Joins", title: "Display employees and managers ordered by manager name.", inputImg: "join/input/54.png", outputImg: "join/output/54.png" },
+    { id: 364, category: "Joins", title: "Display employees with department names and commission.", inputImg: "join/input/55.png", outputImg: "join/output/55.png" },
+    { id: 365, category: "Joins", title: "Display employees working in departments with no commission employees.", inputImg: "join/input/56.png", outputImg: "join/output/56.png" },
+    { id: 366, category: "Joins", title: "Display employees and department names where salary is maximum in department.", inputImg: "join/input/57.png", outputImg: "join/output/57.png" },
+    { id: 367, category: "Joins", title: "Display employees and department names where salary is minimum in department.", inputImg: "join/input/58.png", outputImg: "join/output/58.png" },
+    { id: 368, category: "Joins", title: "Display employees and managers where employee salary > manager salary.", inputImg: "join/input/59.png", outputImg: "join/output/59.png" },
+    { id: 369, category: "Joins", title: "Display employees and departments ordered by department location.", inputImg: "join/input/60.png", outputImg: "join/output/60.png" }
+];
