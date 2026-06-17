@@ -747,3 +747,48 @@ const subqueryData = [
     { id: 269, category: "Subqueries", title: "Display jobs where average salary is greater than overall average salary.", inputImg: "subquery/input/69.png", outputImg: "subquery/output/69.png" },
     { id: 270, category: "Subqueries", title: "Display employees whose salary is greater than salary of their manager.", inputImg: "subquery/input/70.png", outputImg: "subquery/output/70.png" }
 ];
+
+const orderData = [
+    { id: 271, category: "Order By & Alias", title: "Display all employees ordered by salary in ascending order.", inputImg: "order/input/1.png", outputImg: "order/output/1.png" },
+    { id: 272, category: "Order By & Alias", title: "Display all employees ordered by salary in descending order.", inputImg: "order/input/2.png", outputImg: "order/output/2.png" },
+    { id: 273, category: "Order By & Alias", title: "Display employees ordered by hire date.", inputImg: "order/input/3.png", outputImg: "order/output/3.png" },
+    { id: 274, category: "Order By & Alias", title: "Display employees ordered by department number and salary.", inputImg: "order/input/4.png", outputImg: "order/output/4.png" },
+    { id: 275, category: "Order By & Alias", title: "Display employees ordered by job (ascending) and salary (descending).", inputImg: "order/input/5.png", outputImg: "order/output/5.png" },
+    { id: 276, category: "Order By & Alias", title: "Display employee names ordered alphabetically.", inputImg: "order/input/6.png", outputImg: "order/output/6.png" },
+    { id: 277, category: "Order By & Alias", title: "Display employees of department 30 ordered by salary.", inputImg: "order/input/7.png", outputImg: "order/output/7.png" },
+    { id: 278, category: "Order By & Alias", title: "Display employees ordered by annual salary.", inputImg: "order/input/8.png", outputImg: "order/output/8.png" },
+    { id: 279, category: "Order By & Alias", title: "Display employees ordered by commission.", inputImg: "order/input/9.png", outputImg: "order/output/9.png" },
+    { id: 280, category: "Order By & Alias", title: "Display employees ordered by job and name.", inputImg: "order/input/10.png", outputImg: "order/output/10.png" },
+
+    { id: 281, category: "Order By & Alias", title: "Display employee name as Employee_Name.", inputImg: "order/input/11.png", outputImg: "order/output/11.png" },
+    { id: 282, category: "Order By & Alias", title: "Display salary as Monthly_Salary.", inputImg: "order/input/12.png", outputImg: "order/output/12.png" },
+    { id: 283, category: "Order By & Alias", title: "Display employee name and job with aliases.", inputImg: "order/input/13.png", outputImg: "order/output/13.png" },
+    { id: 284, category: "Order By & Alias", title: "Display department number as Dept_No.", inputImg: "order/input/14.png", outputImg: "order/output/14.png" },
+    { id: 285, category: "Order By & Alias", title: "Display employee name and salary with meaningful aliases.", inputImg: "order/input/15.png", outputImg: "order/output/15.png" },
+    { id: 286, category: "Order By & Alias", title: "Display commission as Incentive.", inputImg: "order/input/16.png", outputImg: "order/output/16.png" },
+    { id: 287, category: "Order By & Alias", title: "Display employee name, job, and salary with aliases, ordered by job.", inputImg: "order/input/17.png", outputImg: "order/output/17.png" },
+    { id: 288, category: "Order By & Alias", title: "Display employees of department 30 whose salary > 1500, ordered by salary.", inputImg: "order/input/18.png", outputImg: "order/output/18.png" },
+    { id: 289, category: "Order By & Alias", title: "Display employees whose commission is NOT NULL, ordered by commission.", inputImg: "order/input/19.png", outputImg: "order/output/19.png" },
+    { id: 290, category: "Order By & Alias", title: "Display employees whose salary is between 1500 and 3000, ordered by salary.", inputImg: "order/input/20.png", outputImg: "order/output/20.png" },
+
+    { id: 291, category: "Order By & Alias", title: "Display employee name and department, ordered by department and name.", inputImg: "order/input/21.png", outputImg: "order/output/21.png" },
+    { id: 292, category: "Order By & Alias", title: "Display employees whose name starts with 'S', ordered by salary.", inputImg: "order/input/22.png", outputImg: "order/output/22.png" },
+    { id: 293, category: "Order By & Alias", title: "Display employees hired before 1982 with aliases, ordered by hire date.", inputImg: "order/input/23.png", outputImg: "order/output/23.png" },
+    { id: 294, category: "Order By & Alias", title: "Display employee name as Name and salary as Pay for department 10.", inputImg: "order/input/24.png", outputImg: "order/output/24.png" },
+    { id: 295, category: "Order By & Alias", title: "Display employees whose commission is NULL, ordered by salary descending.", inputImg: "order/input/25.png", outputImg: "order/output/25.png" },
+    { id: 296, category: "Order By & Alias", title: "Display employee name and annual salary, ordered by annual salary.", inputImg: "order/input/26.png", outputImg: "order/output/26.png" },
+    { id: 297, category: "Order By & Alias", title: "Display employees whose commission is NULL but job is SALESMAN.", inputImg: "order/input/27.png", outputImg: "order/output/27.png" },
+    { id: 298, category: "Order By & Alias", title: "Display employees whose manager is NULL and salary > 4000.", inputImg: "order/input/28.png", outputImg: "order/output/28.png" },
+    { id: 299, category: "Order By & Alias", title: "Display employees who do not earn commission and work in department 20.", inputImg: "order/input/29.png", outputImg: "order/output/29.png" },
+    { id: 300, category: "Order By & Alias", title: "Display employees whose commission is NOT NULL and department is 30.", inputImg: "order/input/30.png", outputImg: "order/output/30.png" },
+
+    { id: 301, category: "Order By & Alias", title: "Display employees whose commission is NULL or salary > 3000.", inputImg: "order/input/31.png", outputImg: "order/output/31.png" },
+    { id: 302, category: "Order By & Alias", title: "Display employees whose commission is NULL and salary > 2000.", inputImg: "order/input/32.png", outputImg: "order/output/32.png" },
+    { id: 303, category: "Order By & Alias", title: "Display employees whose manager is not NULL.", inputImg: "order/input/33.png", outputImg: "order/output/33.png" },
+    { id: 304, category: "Order By & Alias", title: "Display employees who do not have a manager.", inputImg: "order/input/34.png", outputImg: "order/output/34.png" },
+    { id: 305, category: "Order By & Alias", title: "Display employees who are getting commission.", inputImg: "order/input/35.png", outputImg: "order/output/35.png" },
+    { id: 306, category: "Order By & Alias", title: "Display employees whose commission is NULL.", inputImg: "order/input/36.png", outputImg: "order/output/36.png" },
+    { id: 307, category: "Order By & Alias", title: "Display job and salary using aliases.", inputImg: "order/input/37.png", outputImg: "order/output/37.png" },
+    { id: 308, category: "Order By & Alias", title: "Display employee name and department number with aliases.", inputImg: "order/input/38.png", outputImg: "order/output/38.png" },
+    { id: 309, category: "Order By & Alias", title: "Display hire date as Joining_Date.", inputImg: "order/input/39.png", outputImg: "order/output/39.png" }
+];
