@@ -792,3 +792,26 @@ const orderData = [
     { id: 308, category: "Order By & Alias", title: "Display employee name and department number with aliases.", inputImg: "order/input/38.png", outputImg: "order/output/38.png" },
     { id: 309, category: "Order By & Alias", title: "Display hire date as Joining_Date.", inputImg: "order/input/39.png", outputImg: "order/output/39.png" }
 ];
+
+const joinData = [
+    { id: 310, category: "Joins", title: "Display employee name and department name.", inputImg: "join/input/1.png", outputImg: "join/output/1.png" },
+    { id: 311, category: "Joins", title: "Display employee name, job, and department location.", inputImg: "join/input/2.png", outputImg: "join/output/2.png" },
+    { id: 312, category: "Joins", title: "Display employee name and manager name.", inputImg: "join/input/3.png", outputImg: "join/output/3.png" },
+    { id: 313, category: "Joins", title: "Display employee name and salary with department name.", inputImg: "join/input/4.png", outputImg: "join/output/4.png" },
+    { id: 314, category: "Joins", title: "Display employees working in NEW YORK.", inputImg: "join/input/5.png", outputImg: "join/output/5.png" },
+    { id: 315, category: "Joins", title: "Display employees and their department names using INNER JOIN.", inputImg: "join/input/6.png", outputImg: "join/output/6.png" },
+    { id: 316, category: "Joins", title: "Display employees and department location using INNER JOIN.", inputImg: "join/input/7.png", outputImg: "join/output/7.png" },
+    { id: 317, category: "Joins", title: "Display employees and managers using SELF JOIN.", inputImg: "join/input/8.png", outputImg: "join/output/8.png" },
+    { id: 318, category: "Joins", title: "Display employees and departments using LEFT JOIN.", inputImg: "join/input/9.png", outputImg: "join/output/9.png" },
+    { id: 319, category: "Joins", title: "Display all departments with or without employees using RIGHT JOIN.", inputImg: "join/input/10.png", outputImg: "join/output/10.png" },
+
+    { id: 320, category: "Joins", title: "Display employee name, job, and department name ordered by department.", inputImg: "join/input/11.png", outputImg: "join/output/11.png" },
+    { id: 321, category: "Joins", title: "Display employees with their managers and department names.", inputImg: "join/input/12.png", outputImg: "join/output/12.png" },
+    { id: 322, category: "Joins", title: "Display employees working in ACCOUNTING department.", inputImg: "join/input/13.png", outputImg: "join/output/13.png" },
+    { id: 323, category: "Joins", title: "Display employees working in departments located in DALLAS.", inputImg: "join/input/14.png", outputImg: "join/output/14.png" },
+    { id: 324, category: "Joins", title: "Display employee name and department name where salary > 2000.", inputImg: "join/input/15.png", outputImg: "join/output/15.png" },
+    { id: 325, category: "Joins", title: "Display employee name and department name where job is MANAGER.", inputImg: "join/input/16.png", outputImg: "join/output/16.png" },
+    { id: 326, category: "Joins", title: "Display employees and departments with salary between 1000 and 3000.", inputImg: "join/input/17.png", outputImg: "join/output/17.png" },
+    { id: 327, category: "Joins", title: "Display employees working in department 10 with department name.", inputImg: "join/input/18.png", outputImg: "join/output/18.png" },
+    { id: 328, category: "Joins", title: "Display employee name and manager name where employee salary > manager salary.", inputImg: "join/input/19.png", outputImg: "join/output/19.png" },
+    { id: 329, category: "Joins", title: "Display employees and their department names ordered by salary.", inputImg: "join/input/20.png", outputImg: "join/output/20.png" },
