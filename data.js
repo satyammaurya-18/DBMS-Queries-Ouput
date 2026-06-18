@@ -917,3 +917,22 @@ const viewData = [
     { id: 412, category: "Views", title: "Try updating salary through a READ ONLY view.", inputImg: "view/input/18.png", outputImg: "view/output/18.png" },
     { id: 413, category: "Views", title: "Try inserting a new employee through a READ ONLY view.", inputImg: "view/input/19.png", outputImg: "view/output/19.png" },
     { id: 414, category: "Views", title: "Display employees whose department number is among departments with more than 3 employees.", inputImg: "view/input/20.png", outputImg: "view/output/20.png" },
+
+    { id: 415, category: "Views", title: "Create a materialized view to store employee name and salary from EMP table.", inputImg: "view/input/21.png", outputImg: "view/output/21.png" },
+    { id: 416, category: "Views", title: "Create a materialized view to store employee name and department name using EMP and DEPT tables.", inputImg: "view/input/22.png", outputImg: "view/output/22.png" },
+    { id: 417, category: "Views", title: "Create a materialized view with REFRESH COMPLETE for EMP table.", inputImg: "view/input/23.png", outputImg: "view/output/23.png" },
+    { id: 418, category: "Views", title: "Create a materialized view with REFRESH FAST (assume logs exist).", inputImg: "view/input/24.png", outputImg: "view/output/24.png" },
+    { id: 419, category: "Views", title: "Create a materialized view with REFRESH ON COMMIT.", inputImg: "view/input/25.png", outputImg: "view/output/25.png" },
+
+    { id: 420, category: "Views", title: "Create a materialized view to store department-wise total salary.", inputImg: "view/input/26.png", outputImg: "view/output/26.png" },
+    { id: 421, category: "Views", title: "Create a materialized view with BUILD IMMEDIATE option.", inputImg: "view/input/27.png", outputImg: "view/output/27.png" },
+    { id: 422, category: "Views", title: "Create a materialized view with BUILD DEFERRED option.", inputImg: "view/input/28.png", outputImg: "view/output/28.png" },
+    { id: 423, category: "Views", title: "Refresh a materialized view manually.", inputImg: "view/input/29.png", outputImg: "view/output/29.png" },
+    { id: 424, category: "Views", title: "Drop a materialized view created on EMP table.", inputImg: "view/input/30.png", outputImg: "view/output/30.png" },
+
+    { id: 425, category: "Views", title: "Display employees earning more than the average salary of their own department.", inputImg: "view/input/31.png", outputImg: "view/output/31.png" },
+    { id: 426, category: "Views", title: "Create a READ ONLY view that shows employee name, department name, and salary.", inputImg: "view/input/32.png", outputImg: "view/output/32.png" },
+    { id: 427, category: "Views", title: "Create a complex view to display department name and highest salary in each department.", inputImg: "view/input/33.png", outputImg: "view/output/33.png" },
+    { id: 428, category: "Views", title: "Display employees whose salary is greater than the average salary of their job.", inputImg: "view/input/34.png", outputImg: "view/output/34.png" },
+    { id: 429, category: "Views", title: "Create a view that hides salary but shows employee name and department name.", inputImg: "view/input/35.png", outputImg: "view/output/35.png" }
+];
