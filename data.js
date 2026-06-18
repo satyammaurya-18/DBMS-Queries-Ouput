@@ -892,3 +892,28 @@ const setData = [
     { id: 393, category: "Set Operators", title: "Display employees from departments located in NEW YORK and DALLAS using UNION.", inputImg: "set/input/24.png", outputImg: "set/output/24.png" },
     { id: 394, category: "Set Operators", title: "Combine employees with salary > 3000 and employees with job = 'MANAGER', removing duplicates.", inputImg: "set/input/25.png", outputImg: "set/output/25.png" }
 ];
+
+const viewData = [
+    { id: 395, category: "Views", title: "Create a view to display employee name, salary, and department number from EMP table.", inputImg: "view/input/1.png", outputImg: "view/output/1.png" },
+    { id: 396, category: "Views", title: "Create a view to display employee name and department name by joining EMP and DEPT tables.", inputImg: "view/input/2.png", outputImg: "view/output/2.png" },
+    { id: 397, category: "Views", title: "Create a view to display employees working in department 10.", inputImg: "view/input/3.png", outputImg: "view/output/3.png" },
+    { id: 398, category: "Views", title: "Create a view to display employee name, job, and annual salary (SAL * 12).", inputImg: "view/input/4.png", outputImg: "view/output/4.png" },
+    { id: 399, category: "Views", title: "Create a view to display department name and location from DEPT table.", inputImg: "view/input/5.png", outputImg: "view/output/5.png" },
+
+    { id: 400, category: "Views", title: "Create a view to display employee name, department name, and location.", inputImg: "view/input/6.png", outputImg: "view/output/6.png" },
+    { id: 401, category: "Views", title: "Create a view to display employees earning more than 3000.", inputImg: "view/input/7.png", outputImg: "view/output/7.png" },
+    { id: 402, category: "Views", title: "Create a view to display department-wise total salary using EMP table.", inputImg: "view/input/8.png", outputImg: "view/output/8.png" },
+    { id: 403, category: "Views", title: "Create a view to display only managers (JOB = 'MANAGER').", inputImg: "view/input/9.png", outputImg: "view/output/9.png" },
+    { id: 404, category: "Views", title: "Create a view with column aliases for employee name and salary.", inputImg: "view/input/10.png", outputImg: "view/output/10.png" },
+
+    { id: 405, category: "Views", title: "Create a view for employees in department 20 with WITH CHECK OPTION.", inputImg: "view/input/11.png", outputImg: "view/output/11.png" },
+    { id: 406, category: "Views", title: "Insert a new employee into the above view with department 20.", inputImg: "view/input/12.png", outputImg: "view/output/12.png" },
+    { id: 407, category: "Views", title: "Try inserting an employee with department 30 into the same view.", inputImg: "view/input/13.png", outputImg: "view/output/13.png" },
+    { id: 408, category: "Views", title: "Update department number through the view from 20 to 30 and observe the result.", inputImg: "view/input/14.png", outputImg: "view/output/14.png" },
+    { id: 409, category: "Views", title: "Create a view for employees with salary > 2000 and enforce the condition using WITH CHECK OPTION.", inputImg: "view/input/15.png", outputImg: "view/output/15.png" },
+
+    { id: 410, category: "Views", title: "Create a READ ONLY view to display employee details.", inputImg: "view/input/16.png", outputImg: "view/output/16.png" },
+    { id: 411, category: "Views", title: "Create a READ ONLY view to display employee name and department name.", inputImg: "view/input/17.png", outputImg: "view/output/17.png" },
+    { id: 412, category: "Views", title: "Try updating salary through a READ ONLY view.", inputImg: "view/input/18.png", outputImg: "view/output/18.png" },
+    { id: 413, category: "Views", title: "Try inserting a new employee through a READ ONLY view.", inputImg: "view/input/19.png", outputImg: "view/output/19.png" },
+    { id: 414, category: "Views", title: "Display employees whose department number is among departments with more than 3 employees.", inputImg: "view/input/20.png", outputImg: "view/output/20.png" },
