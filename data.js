@@ -961,3 +961,27 @@ const scalarData = [
     { id: 447, category: "Scalar Functions", title: "Display remainder when salary is divided by 2000. (Numeric Function)", inputImg: "scalar/input/18.png", outputImg: "scalar/output/18.png" },
     { id: 448, category: "Scalar Functions", title: "Display salary raised to the power of 3. (Numeric Function)", inputImg: "scalar/input/19.png", outputImg: "scalar/output/19.png" },
     { id: 449, category: "Scalar Functions", title: "Round salary to nearest hundred and thousand (two columns). (Numeric Function)", inputImg: "scalar/input/20.png", outputImg: "scalar/output/20.png" },
+
+    { id: 450, category: "Scalar Functions", title: "Display employee names in uppercase and lowercase in two columns. (String Function)", inputImg: "scalar/input/21.png", outputImg: "scalar/output/21.png" },
+    { id: 451, category: "Scalar Functions", title: "Display employee name and its length. (String Function)", inputImg: "scalar/input/22.png", outputImg: "scalar/output/22.png" },
+    { id: 452, category: "Scalar Functions", title: "Display first 4 characters of employee name. (String Function)", inputImg: "scalar/input/23.png", outputImg: "scalar/output/23.png" },
+    { id: 453, category: "Scalar Functions", title: "Concatenate employee name and job using '-' symbol. (String Function)", inputImg: "scalar/input/24.png", outputImg: "scalar/output/24.png" },
+    { id: 454, category: "Scalar Functions", title: "Replace all occurrences of letter A with # in employee names. (String Function)", inputImg: "scalar/input/25.png", outputImg: "scalar/output/25.png" },
+
+    { id: 455, category: "Scalar Functions", title: "Display position of first occurrence of E in employee name. (String Function)", inputImg: "scalar/input/26.png", outputImg: "scalar/output/26.png" },
+    { id: 456, category: "Scalar Functions", title: "Remove leading and trailing spaces from employee name. (String Function)", inputImg: "scalar/input/27.png", outputImg: "scalar/output/27.png" },
+    { id: 457, category: "Scalar Functions", title: "Display employee name with first letter capital and rest lowercase. (String Function)", inputImg: "scalar/input/28.png", outputImg: "scalar/output/28.png" },
+    { id: 458, category: "Scalar Functions", title: "Display last 3 characters of employee name. (String Function)", inputImg: "scalar/input/29.png", outputImg: "scalar/output/29.png" },
+    { id: 459, category: "Scalar Functions", title: "Pad employee name with * on the left to make total length 10. (String Function)", inputImg: "scalar/input/30.png", outputImg: "scalar/output/30.png" },
+
+    { id: 460, category: "Scalar Functions", title: "Display employees earning more than the average salary of their own department.", inputImg: "scalar/input/31.png", outputImg: "scalar/output/31.png" },
+    { id: 461, category: "Scalar Functions", title: "Display employee names starting with S. (String Function)", inputImg: "scalar/input/32.png", outputImg: "scalar/output/32.png" },
+    { id: 462, category: "Scalar Functions", title: "Count number of characters excluding spaces. (String Function)", inputImg: "scalar/input/33.png", outputImg: "scalar/output/33.png" },
+    { id: 463, category: "Scalar Functions", title: "Display employees whose salary is greater than the average salary of their job.", inputImg: "scalar/input/34.png", outputImg: "scalar/output/34.png" },
+    { id: 464, category: "Scalar Functions", title: "Extract domain name from email column. (String Function)", inputImg: "scalar/input/35.png", outputImg: "scalar/output/35.png" },
+
+    { id: 465, category: "Scalar Functions", title: "Convert current date into format: DD/MM/YYYY. (Conversion Function)", inputImg: "scalar/input/36.png", outputImg: "scalar/output/36.png" },
+    { id: 466, category: "Scalar Functions", title: "Convert string '15-AUG-2020' into DATE format. (Conversion Function)", inputImg: "scalar/input/37.png", outputImg: "scalar/output/37.png" },
+    { id: 467, category: "Scalar Functions", title: "Convert salary into character with currency format (₹10,000). (Conversion Function)", inputImg: "scalar/input/38.png", outputImg: "scalar/output/38.png" },
+    { id: 468, category: "Scalar Functions", title: "Convert number 12345 into string with commas. (Conversion Function)", inputImg: "scalar/input/39.png", outputImg: "scalar/output/39.png" },
+    { id: 469, category: "Scalar Functions", title: "Convert hire date into format: Month DD, YYYY. (Conversion Function)", inputImg: "scalar/input/40.png", outputImg: "scalar/output/40.png" },
