@@ -860,3 +860,35 @@ const joinData = [
     { id: 368, category: "Joins", title: "Display employees and managers where employee salary > manager salary.", inputImg: "join/input/59.png", outputImg: "join/output/59.png" },
     { id: 369, category: "Joins", title: "Display employees and departments ordered by department location.", inputImg: "join/input/60.png", outputImg: "join/output/60.png" }
 ];
+
+const setData = [
+    { id: 370, category: "Set Operators", title: "Display all department numbers from both EMP and DEPT tables using UNION.", inputImg: "set/input/1.png", outputImg: "set/output/1.png" },
+    { id: 371, category: "Set Operators", title: "Display all department numbers from EMP and DEPT including duplicates using UNION ALL.", inputImg: "set/input/2.png", outputImg: "set/output/2.png" },
+    { id: 372, category: "Set Operators", title: "Display department numbers that are present in both EMP and DEPT using INTERSECT.", inputImg: "set/input/3.png", outputImg: "set/output/3.png" },
+    { id: 373, category: "Set Operators", title: "Display department numbers that are present in EMP but not in DEPT using MINUS.", inputImg: "set/input/4.png", outputImg: "set/output/4.png" },
+    { id: 374, category: "Set Operators", title: "Display department numbers that are present in DEPT but not assigned to any employee.", inputImg: "set/input/5.png", outputImg: "set/output/5.png" },
+
+    { id: 375, category: "Set Operators", title: "Display employee names and department names in a single column using UNION.", inputImg: "set/input/6.png", outputImg: "set/output/6.png" },
+    { id: 376, category: "Set Operators", title: "Display all employee names and department names, including duplicates.", inputImg: "set/input/7.png", outputImg: "set/output/7.png" },
+    { id: 377, category: "Set Operators", title: "Display jobs that exist in EMP table and also exist as department names in DEPT table using INTERSECT.", inputImg: "set/input/8.png", outputImg: "set/output/8.png" },
+    { id: 378, category: "Set Operators", title: "Display employee names that are not department names.", inputImg: "set/input/9.png", outputImg: "set/output/9.png" },
+    { id: 379, category: "Set Operators", title: "Display department locations that are not used by any employee.", inputImg: "set/input/10.png", outputImg: "set/output/10.png" },
+
+    { id: 380, category: "Set Operators", title: "Display employee names from department 10 and department 20 using UNION.", inputImg: "set/input/11.png", outputImg: "set/output/11.png" },
+    { id: 381, category: "Set Operators", title: "Display employee names from department 10 and department 20 including duplicates.", inputImg: "set/input/12.png", outputImg: "set/output/12.png" },
+    { id: 382, category: "Set Operators", title: "Display employees who work in departments that exist in DEPT table using INTERSECT.", inputImg: "set/input/13.png", outputImg: "set/output/13.png" },
+    { id: 383, category: "Set Operators", title: "Display employees whose department does not exist in DEPT table using MINUS.", inputImg: "set/input/14.png", outputImg: "set/output/14.png" },
+    { id: 384, category: "Set Operators", title: "Display department numbers that have employees and also exist in DEPT table.", inputImg: "set/input/15.png", outputImg: "set/output/15.png" },
+
+    { id: 385, category: "Set Operators", title: "Display all unique job roles from EMP and all unique department names from DEPT in one result.", inputImg: "set/input/16.png", outputImg: "set/output/16.png" },
+    { id: 386, category: "Set Operators", title: "Display common values between employee job and department location.", inputImg: "set/input/17.png", outputImg: "set/output/17.png" },
+    { id: 387, category: "Set Operators", title: "Display employee names who are not assigned to any valid department.", inputImg: "set/input/18.png", outputImg: "set/output/18.png" },
+    { id: 388, category: "Set Operators", title: "Combine employees earning more than 2000 and employees from department 10 using UNION.", inputImg: "set/input/19.png", outputImg: "set/output/19.png" },
+    { id: 389, category: "Set Operators", title: "Display employees whose department number is among departments with more than 3 employees.", inputImg: "set/input/20.png", outputImg: "set/output/20.png" },
+
+    { id: 390, category: "Set Operators", title: "Display department numbers that exist in EMP and DEPT but exclude department 10.", inputImg: "set/input/21.png", outputImg: "set/output/21.png" },
+    { id: 391, category: "Set Operators", title: "Display all employee names and department names in a single result sorted alphabetically.", inputImg: "set/input/22.png", outputImg: "set/output/22.png" },
+    { id: 392, category: "Set Operators", title: "Display department numbers that appear in EMP more than once using UNION ALL.", inputImg: "set/input/23.png", outputImg: "set/output/23.png" },
+    { id: 393, category: "Set Operators", title: "Display employees from departments located in NEW YORK and DALLAS using UNION.", inputImg: "set/input/24.png", outputImg: "set/output/24.png" },
+    { id: 394, category: "Set Operators", title: "Combine employees with salary > 3000 and employees with job = 'MANAGER', removing duplicates.", inputImg: "set/input/25.png", outputImg: "set/output/25.png" }
+];
