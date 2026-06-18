@@ -936,3 +936,28 @@ const viewData = [
     { id: 428, category: "Views", title: "Display employees whose salary is greater than the average salary of their job.", inputImg: "view/input/34.png", outputImg: "view/output/34.png" },
     { id: 429, category: "Views", title: "Create a view that hides salary but shows employee name and department name.", inputImg: "view/input/35.png", outputImg: "view/output/35.png" }
 ];
+
+const scalarData = [
+    { id: 430, category: "Scalar Functions", title: "Display employee name, hire date, and current date. Also calculate the number of days the employee has worked. (Date Function)", inputImg: "scalar/input/1.png", outputImg: "scalar/output/1.png" },
+    { id: 431, category: "Scalar Functions", title: "Display employee name and hire date in the format: Monday, January 01, 2024. (Date Function)", inputImg: "scalar/input/2.png", outputImg: "scalar/output/2.png" },
+    { id: 432, category: "Scalar Functions", title: "Find employees who joined in the same month as the current system date (ignore year). (Date Function)", inputImg: "scalar/input/3.png", outputImg: "scalar/output/3.png" },
+    { id: 433, category: "Scalar Functions", title: "Display employee name and the next Monday after their hire date. (Date Function)", inputImg: "scalar/input/4.png", outputImg: "scalar/output/4.png" },
+    { id: 434, category: "Scalar Functions", title: "Display employee name and the last day of their joining month. (Date Function)", inputImg: "scalar/input/5.png", outputImg: "scalar/output/5.png" },
+
+    { id: 435, category: "Scalar Functions", title: "Find employees who have completed more than 10 years in the company. (Date Function)", inputImg: "scalar/input/6.png", outputImg: "scalar/output/6.png" },
+    { id: 436, category: "Scalar Functions", title: "Display employee name and number of months worked in the company. (Date Function)", inputImg: "scalar/input/7.png", outputImg: "scalar/output/7.png" },
+    { id: 437, category: "Scalar Functions", title: "Display employee name, hire date, and hire date after adding 3 years and 6 months. (Date Function)", inputImg: "scalar/input/8.png", outputImg: "scalar/output/8.png" },
+    { id: 438, category: "Scalar Functions", title: "Find employees hired between two given dates (use TO_DATE). (Date Function)", inputImg: "scalar/input/9.png", outputImg: "scalar/output/9.png" },
+    { id: 439, category: "Scalar Functions", title: "Display the difference in years between SYSDATE and hire date (rounded). (Date Function)", inputImg: "scalar/input/10.png", outputImg: "scalar/output/10.png" },
+
+    { id: 440, category: "Scalar Functions", title: "Display employee name and salary rounded to the nearest 1000. (Numeric Function)", inputImg: "scalar/input/11.png", outputImg: "scalar/output/11.png" },
+    { id: 441, category: "Scalar Functions", title: "Display salary truncated to 2 decimal places. (Numeric Function)", inputImg: "scalar/input/12.png", outputImg: "scalar/output/12.png" },
+    { id: 442, category: "Scalar Functions", title: "Display employee name and square root of salary. (Numeric Function)", inputImg: "scalar/input/13.png", outputImg: "scalar/output/13.png" },
+    { id: 443, category: "Scalar Functions", title: "Find the absolute difference between salary and 5000. (Numeric Function)", inputImg: "scalar/input/14.png", outputImg: "scalar/output/14.png" },
+    { id: 444, category: "Scalar Functions", title: "Display salary rounded up to the nearest integer. (Numeric Function)", inputImg: "scalar/input/15.png", outputImg: "scalar/output/15.png" },
+
+    { id: 445, category: "Scalar Functions", title: "Display salary rounded down to the nearest integer. (Numeric Function)", inputImg: "scalar/input/16.png", outputImg: "scalar/output/16.png" },
+    { id: 446, category: "Scalar Functions", title: "Generate a random number between 1 and 500 for each employee. (Numeric Function)", inputImg: "scalar/input/17.png", outputImg: "scalar/output/17.png" },
+    { id: 447, category: "Scalar Functions", title: "Display remainder when salary is divided by 2000. (Numeric Function)", inputImg: "scalar/input/18.png", outputImg: "scalar/output/18.png" },
+    { id: 448, category: "Scalar Functions", title: "Display salary raised to the power of 3. (Numeric Function)", inputImg: "scalar/input/19.png", outputImg: "scalar/output/19.png" },
+    { id: 449, category: "Scalar Functions", title: "Round salary to nearest hundred and thousand (two columns). (Numeric Function)", inputImg: "scalar/input/20.png", outputImg: "scalar/output/20.png" },
