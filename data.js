@@ -985,3 +985,28 @@ const scalarData = [
     { id: 467, category: "Scalar Functions", title: "Convert salary into character with currency format (₹10,000). (Conversion Function)", inputImg: "scalar/input/38.png", outputImg: "scalar/output/38.png" },
     { id: 468, category: "Scalar Functions", title: "Convert number 12345 into string with commas. (Conversion Function)", inputImg: "scalar/input/39.png", outputImg: "scalar/output/39.png" },
     { id: 469, category: "Scalar Functions", title: "Convert hire date into format: Month DD, YYYY. (Conversion Function)", inputImg: "scalar/input/40.png", outputImg: "scalar/output/40.png" },
+
+    { id: 470, category: "Scalar Functions", title: "Convert string column to number and perform arithmetic operation. (Conversion Function)", inputImg: "scalar/input/41.png", outputImg: "scalar/output/41.png" },
+    { id: 471, category: "Scalar Functions", title: "Handle invalid date format using TO_DATE safely. (Conversion Function)", inputImg: "scalar/input/42.png", outputImg: "scalar/output/42.png" },
+    { id: 472, category: "Scalar Functions", title: "Convert SYSDATE into year only. (Conversion Function)", inputImg: "scalar/input/43.png", outputImg: "scalar/output/43.png" },
+    { id: 473, category: "Scalar Functions", title: "Convert salary into string and concatenate with text. (Conversion Function)", inputImg: "scalar/input/44.png", outputImg: "scalar/output/44.png" },
+    { id: 474, category: "Scalar Functions", title: "Display hire date in multiple formats (3 columns). (Conversion Function)", inputImg: "scalar/input/45.png", outputImg: "scalar/output/45.png" },
+
+    { id: 475, category: "Scalar Functions", title: "Display employee name and salary. If salary is NULL, display 0. (General & NULL Function)", inputImg: "scalar/input/46.png", outputImg: "scalar/output/46.png" },
+    { id: 476, category: "Scalar Functions", title: "Display employee name and commission. If NULL, display 'No Commission'. (General & NULL Function)", inputImg: "scalar/input/47.png", outputImg: "scalar/output/47.png" },
+    { id: 477, category: "Scalar Functions", title: "Use NVL2 to show commission status (Has/No Commission). (General & NULL Function)", inputImg: "scalar/input/48.png", outputImg: "scalar/output/48.png" },
+    { id: 478, category: "Scalar Functions", title: "Use COALESCE to display first non-null value among salary, commission, bonus. (General & NULL Function)", inputImg: "scalar/input/49.png", outputImg: "scalar/output/49.png" },
+    { id: 479, category: "Scalar Functions", title: "Display employee salary; if NULL replace with average salary. (General & NULL Function)", inputImg: "scalar/input/50.png", outputImg: "scalar/output/50.png" },
+
+    { id: 480, category: "Scalar Functions", title: "Display department number and average salary of employees whose salary is greater than 2000.", inputImg: "scalar/input/51.png", outputImg: "scalar/output/51.png" },
+    { id: 481, category: "Scalar Functions", title: "Display job and total salary of employees earning more than the department average.", inputImg: "scalar/input/52.png", outputImg: "scalar/output/52.png" },
+    { id: 482, category: "Scalar Functions", title: "Display departments having average salary greater than overall average salary.", inputImg: "scalar/input/53.png", outputImg: "scalar/output/53.png" },
+    { id: 483, category: "Scalar Functions", title: "Use DECODE to categorize salary (Low/Medium/High). (General & NULL Function)", inputImg: "scalar/input/54.png", outputImg: "scalar/output/54.png" },
+    { id: 484, category: "Scalar Functions", title: "Use CASE to categorize employees based on experience. (General & NULL Function)", inputImg: "scalar/input/55.png", outputImg: "scalar/output/55.png" },
+
+    { id: 485, category: "Scalar Functions", title: "Display job; if NULL show 'Unknown Job'. (General & NULL Function)", inputImg: "scalar/input/56.png", outputImg: "scalar/output/56.png" },
+    { id: 486, category: "Scalar Functions", title: "Use NVL with date columns. (General & NULL Function)", inputImg: "scalar/input/57.png", outputImg: "scalar/output/57.png" },
+    { id: 487, category: "Scalar Functions", title: "Display departments having total salary greater than overall total salary average.", inputImg: "scalar/input/58.png", outputImg: "scalar/output/58.png" },
+    { id: 488, category: "Scalar Functions", title: "Display job-wise average salary where department has more than 3 employees.", inputImg: "scalar/input/59.png", outputImg: "scalar/output/59.png" },
+    { id: 489, category: "Scalar Functions", title: "Combine NVL and TO_CHAR for formatted output. (General & NULL Function)", inputImg: "scalar/input/60.png", outputImg: "scalar/output/60.png" }
+];
