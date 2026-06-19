@@ -1133,29 +1133,3 @@ const tdData = [
     { id: 583, category: "TCL & DCL Commands", title: "Revoke ALL privileges on DEPT table from USER3.", inputImg: "t&d/input/13.png", outputImg: "t&d/output/13.png" },
     { id: 584, category: "TCL & DCL Commands", title: "Revoke GRANT OPTION from USER4 on EMP table.", inputImg: "t&d/input/14.png", outputImg: "t&d/output/14.png" },
     { id: 585, category: "TCL & DCL Commands", title: "Revoke UPDATE privilege on SAL column from USER5.", inputImg: "t&d/input/15.png", outputImg: "t&d/output/15.png" },
-
-    { id: 586, category: "TCL & DCL Commands", title: "Revoke DELETE privilege on EMP table from USER6.", inputImg: "t&d/input/16.png", outputImg: "t&d/output/16.png" },
-    { id: 587, category: "TCL & DCL Commands", title: "Revoke privileges granted to PUBLIC on EMP table.", inputImg: "t&d/input/17.png", outputImg: "t&d/output/17.png" },
-    { id: 588, category: "TCL & DCL Commands", title: "Revoke all privileges on EMP table from USER9.", inputImg: "t&d/input/18.png", outputImg: "t&d/output/18.png" },
-
-    { id: 589, category: "TCL & DCL Commands", title: "Insert a new employee record into EMP table and commit the changes.", inputImg: "t&d/input/19.png", outputImg: "t&d/output/19.png" },
-    { id: 590, category: "TCL & DCL Commands", title: "Update salary of employees in department 10 and commit the changes.", inputImg: "t&d/input/20.png", outputImg: "t&d/output/20.png" },
-    { id: 591, category: "TCL & DCL Commands", title: "Delete employees with salary less than 1000 and commit the transaction.", inputImg: "t&d/input/21.png", outputImg: "t&d/output/21.png" },
-    { id: 592, category: "TCL & DCL Commands", title: "Insert multiple records into DEPT table and commit them together.", inputImg: "t&d/input/22.png", outputImg: "t&d/output/22.png" },
-    { id: 593, category: "TCL & DCL Commands", title: "Update department location and commit the changes.", inputImg: "t&d/input/23.png", outputImg: "t&d/output/23.png" },
-
-    { id: 594, category: "TCL & DCL Commands", title: "Insert a new employee into EMP table but rollback the transaction.", inputImg: "t&d/input/24.png", outputImg: "t&d/output/24.png" },
-    { id: 595, category: "TCL & DCL Commands", title: "Update salary of employees and then rollback the changes.", inputImg: "t&d/input/25.png", outputImg: "t&d/output/25.png" },
-    { id: 596, category: "TCL & DCL Commands", title: "Delete records from EMP table and rollback the transaction.", inputImg: "t&d/input/26.png", outputImg: "t&d/output/26.png" },
-    { id: 597, category: "TCL & DCL Commands", title: "Perform multiple operations (INSERT, UPDATE, DELETE) and rollback all changes.", inputImg: "t&d/input/27.png", outputImg: "t&d/output/27.png" },
-    { id: 598, category: "TCL & DCL Commands", title: "Update department location and rollback before committing.", inputImg: "t&d/input/28.png", outputImg: "t&d/output/28.png" },
-
-    { id: 599, category: "TCL & DCL Commands", title: "Insert a new employee, update salary, and commit only after verifying results.", inputImg: "t&d/input/29.png", outputImg: "t&d/output/29.png" },
-    { id: 600, category: "TCL & DCL Commands", title: "Insert multiple employees, rollback one operation using SAVEPOINT, then commit remaining.", inputImg: "t&d/input/30.png", outputImg: "t&d/output/30.png" },
-
-    { id: 601, category: "TCL & DCL Commands", title: "Create a transaction where some operations are committed and others are rolled back.", inputImg: "t&d/input/31.png", outputImg: "t&d/output/31.png" },
-    { id: 602, category: "TCL & DCL Commands", title: "Demonstrate use of SAVEPOINT in EMP table operations.", inputImg: "t&d/input/32.png", outputImg: "t&d/output/32.png" },
-    { id: 603, category: "TCL & DCL Commands", title: "Perform update on EMP table and rollback to a specific SAVEPOINT.", inputImg: "t&d/input/33.png", outputImg: "t&d/output/33.png" },
-    { id: 604, category: "TCL & DCL Commands", title: "Grant privileges to a user, perform DML operations, and commit changes.", inputImg: "t&d/input/34.png", outputImg: "t&d/output/34.png" },
-    { id: 605, category: "TCL & DCL Commands", title: "Revoke privileges and verify access restrictions using EMP table.", inputImg: "t&d/input/35.png", outputImg: "t&d/output/35.png" }
-];
