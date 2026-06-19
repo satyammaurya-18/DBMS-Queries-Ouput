@@ -1062,3 +1062,41 @@ const ddlData = [
 
     { id: 530, category: "DDL Commands", title: "Display employee name as Name whose name starts with S, ordered alphabetically.", inputImg: "ddl/input/41.png", outputImg: "ddl/output/41.png" }
 ];
+
+const dmlData = [
+    { id: 531, category: "DML Commands", title: "Insert a record into STUDENT table with values: SID = 101, SNAME = 'RAHUL', AGE = 20, COURSE = 'MCA'.", inputImg: "dml/input/1.png", outputImg: "dml/output/1.png" },
+    { id: 532, category: "DML Commands", title: "Insert a record into EMPLOYEE table with EID = 201, ENAME = 'ANITA', SALARY = 45000, DEPTNO = 10.", inputImg: "dml/input/2.png", outputImg: "dml/output/2.png" },
+    { id: 533, category: "DML Commands", title: "Insert a new department into DEPT table; DEPTNO = 50, DNAME = 'TRAINING', LOC = 'DELHI'.", inputImg: "dml/input/3.png", outputImg: "dml/output/3.png" },
+    { id: 534, category: "DML Commands", title: "Insert a record into BOOK table with only BOOK_ID, TITLE, and PRICE.", inputImg: "dml/input/4.png", outputImg: "dml/output/4.png" },
+    { id: 535, category: "DML Commands", title: "Insert multiple rows into COURSE table.", inputImg: "dml/input/5.png", outputImg: "dml/output/5.png" },
+
+    { id: 536, category: "DML Commands", title: "Insert data into EMP_COPY table from the EMP table.", inputImg: "dml/input/6.png", outputImg: "dml/output/6.png" },
+    { id: 537, category: "DML Commands", title: "Insert employees from EMP whose salary is greater than 3000 into EMP_HIGH_SAL.", inputImg: "dml/input/7.png", outputImg: "dml/output/7.png" },
+    { id: 538, category: "DML Commands", title: "Insert employees hired after 1981 into EMP_NEW_HIRE.", inputImg: "dml/input/8.png", outputImg: "dml/output/8.png" },
+    { id: 539, category: "DML Commands", title: "Insert department numbers and names from DEPT into a table called DEPT_BACKUP.", inputImg: "dml/input/9.png", outputImg: "dml/output/9.png" },
+    { id: 540, category: "DML Commands", title: "Insert employee names and salaries into a table EMP_SALARY_RECORD.", inputImg: "dml/input/10.png", outputImg: "dml/output/10.png" },
+
+    { id: 541, category: "DML Commands", title: "Update the salary of employee SMITH to 2000.", inputImg: "dml/input/11.png", outputImg: "dml/output/11.png" },
+    { id: 542, category: "DML Commands", title: "Increase salary of all employees by 10%.", inputImg: "dml/input/12.png", outputImg: "dml/output/12.png" },
+    { id: 543, category: "DML Commands", title: "Update the department number of employee ALLEN to 20.", inputImg: "dml/input/13.png", outputImg: "dml/output/13.png" },
+    { id: 544, category: "DML Commands", title: "Update commission of SALESMAN to 500.", inputImg: "dml/input/14.png", outputImg: "dml/output/14.png" },
+    { id: 545, category: "DML Commands", title: "Update job of employee MILLER to MANAGER.", inputImg: "dml/input/15.png", outputImg: "dml/output/15.png" },
+
+    { id: 546, category: "DML Commands", title: "Increase salary of employees in department 10 by 20%.", inputImg: "dml/input/16.png", outputImg: "dml/output/16.png" },
+    { id: 547, category: "DML Commands", title: "Update salary of employees whose job is CLERK to 1500.", inputImg: "dml/input/17.png", outputImg: "dml/output/17.png" },
+    { id: 548, category: "DML Commands", title: "Update location of department 30 to MUMBAI.", inputImg: "dml/input/18.png", outputImg: "dml/output/18.png" },
+    { id: 549, category: "DML Commands", title: "Update commission of employees who have NULL commission to 100.", inputImg: "dml/input/19.png", outputImg: "dml/output/19.png" },
+    { id: 550, category: "DML Commands", title: "Update salary of employees who earn less than average salary.", inputImg: "dml/input/20.png", outputImg: "dml/output/20.png" },
+
+    { id: 551, category: "DML Commands", title: "Delete employee SMITH from EMP table.", inputImg: "dml/input/21.png", outputImg: "dml/output/21.png" },
+    { id: 552, category: "DML Commands", title: "Delete all employees working in department 30.", inputImg: "dml/input/22.png", outputImg: "dml/output/22.png" },
+    { id: 553, category: "DML Commands", title: "Delete employees whose salary is less than 1000.", inputImg: "dml/input/23.png", outputImg: "dml/output/23.png" },
+    { id: 554, category: "DML Commands", title: "Delete employees hired before 1981.", inputImg: "dml/input/24.png", outputImg: "dml/output/24.png" },
+    { id: 555, category: "DML Commands", title: "Delete employees who do not receive commission.", inputImg: "dml/input/25.png", outputImg: "dml/output/25.png" },
+
+    { id: 556, category: "DML Commands", title: "Delete departments located in CHICAGO.", inputImg: "dml/input/26.png", outputImg: "dml/output/26.png" },
+    { id: 557, category: "DML Commands", title: "Delete employees whose job is CLERK.", inputImg: "dml/input/27.png", outputImg: "dml/output/27.png" },
+    { id: 558, category: "DML Commands", title: "Delete employees earning the minimum salary.", inputImg: "dml/input/28.png", outputImg: "dml/output/28.png" },
+    { id: 559, category: "DML Commands", title: "Delete employees working in departments located in NEW YORK.", inputImg: "dml/input/29.png", outputImg: "dml/output/29.png" },
+    { id: 560, category: "DML Commands", title: "Delete employees whose manager number is NULL.", inputImg: "dml/input/30.png", outputImg: "dml/output/30.png" }
+];
