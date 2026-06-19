@@ -1010,3 +1010,55 @@ const scalarData = [
     { id: 488, category: "Scalar Functions", title: "Display job-wise average salary where department has more than 3 employees.", inputImg: "scalar/input/59.png", outputImg: "scalar/output/59.png" },
     { id: 489, category: "Scalar Functions", title: "Combine NVL and TO_CHAR for formatted output. (General & NULL Function)", inputImg: "scalar/input/60.png", outputImg: "scalar/output/60.png" }
 ];
+
+const ddlData = [
+    { id: 490, category: "DDL Commands", title: "Create a table called STUDENT with columns: SID (NUMBER), SNAME (VARCHAR2(30)), AGE (NUMBER), COURSE (VARCHAR2(20)).", inputImg: "ddl/input/1.png", outputImg: "ddl/output/1.png" },
+    { id: 491, category: "DDL Commands", title: "Create a table EMPLOYEE with columns: EID NUMBER, ENAME VARCHAR2(40), SALARY NUMBER(8,2), DEPTNO NUMBER.", inputImg: "ddl/input/2.png", outputImg: "ddl/output/2.png" },
+    { id: 492, category: "DDL Commands", title: "Create a table DEPARTMENT with columns: DEPTNO NUMBER, DNAME VARCHAR2(30), LOCATION VARCHAR2(30).", inputImg: "ddl/input/3.png", outputImg: "ddl/output/3.png" },
+    { id: 493, category: "DDL Commands", title: "Create a table BOOK with columns: BOOK_ID NUMBER, TITLE VARCHAR2(50), AUTHOR VARCHAR2(40), PRICE NUMBER.", inputImg: "ddl/input/4.png", outputImg: "ddl/output/4.png" },
+    { id: 494, category: "DDL Commands", title: "Create a table COURSE with columns: CID NUMBER, CNAME VARCHAR2(40), DURATION NUMBER.", inputImg: "ddl/input/5.png", outputImg: "ddl/output/5.png" },
+
+    { id: 495, category: "DDL Commands", title: "Create a table PROJECT with columns: PID NUMBER, PNAME VARCHAR2(50), START_DATE DATE, END_DATE DATE.", inputImg: "ddl/input/6.png", outputImg: "ddl/output/6.png" },
+    { id: 496, category: "DDL Commands", title: "Create a table CUSTOMER with columns: CID NUMBER, CNAME VARCHAR2(40), CITY VARCHAR2(30), PHONE NUMBER.", inputImg: "ddl/input/7.png", outputImg: "ddl/output/7.png" },
+    { id: 497, category: "DDL Commands", title: "Create a table SALES with columns: SALE_ID NUMBER, PRODUCT_NAME VARCHAR2(50), QUANTITY NUMBER, PRICE NUMBER.", inputImg: "ddl/input/8.png", outputImg: "ddl/output/8.png" },
+    { id: 498, category: "DDL Commands", title: "Create a table EMP_COPY from the existing EMP table (structure only).", inputImg: "ddl/input/9.png", outputImg: "ddl/output/9.png" },
+    { id: 499, category: "DDL Commands", title: "Create a table EMP_BACKUP from EMP including data.", inputImg: "ddl/input/10.png", outputImg: "ddl/output/10.png" },
+
+    { id: 500, category: "DDL Commands", title: "Add a column EMAIL VARCHAR2(50) to the STUDENT table.", inputImg: "ddl/input/11.png", outputImg: "ddl/output/11.png" },
+    { id: 501, category: "DDL Commands", title: "Add a column PHONE NUMBER to the EMPLOYEE table.", inputImg: "ddl/input/12.png", outputImg: "ddl/output/12.png" },
+    { id: 502, category: "DDL Commands", title: "Modify the column SNAME in STUDENT table to VARCHAR2(50).", inputImg: "ddl/input/13.png", outputImg: "ddl/output/13.png" },
+    { id: 503, category: "DDL Commands", title: "Modify the column SALARY in EMPLOYEE table to NUMBER(10,2).", inputImg: "ddl/input/14.png", outputImg: "ddl/output/14.png" },
+    { id: 504, category: "DDL Commands", title: "Add two columns CITY VARCHAR2(30) and PINCODE NUMBER to CUSTOMER table.", inputImg: "ddl/input/15.png", outputImg: "ddl/output/15.png" },
+
+    { id: 505, category: "DDL Commands", title: "Rename the column SNAME to STUDENT_NAME in STUDENT table.", inputImg: "ddl/input/16.png", outputImg: "ddl/output/16.png" },
+    { id: 506, category: "DDL Commands", title: "Drop the column AGE from STUDENT table.", inputImg: "ddl/input/17.png", outputImg: "ddl/output/17.png" },
+    { id: 507, category: "DDL Commands", title: "Set the column SALARY in EMPLOYEE table to NOT NULL.", inputImg: "ddl/input/18.png", outputImg: "ddl/output/18.png" },
+    { id: 508, category: "DDL Commands", title: "Increase the size of column TITLE in BOOK table to VARCHAR2(100).", inputImg: "ddl/input/19.png", outputImg: "ddl/output/19.png" },
+    { id: 509, category: "DDL Commands", title: "Add a column MANAGER_ID NUMBER to EMPLOYEE table.", inputImg: "ddl/input/20.png", outputImg: "ddl/output/20.png" },
+
+    { id: 510, category: "DDL Commands", title: "Drop the table STUDENT.", inputImg: "ddl/input/21.png", outputImg: "ddl/output/21.png" },
+    { id: 511, category: "DDL Commands", title: "Drop the table CUSTOMER from the database.", inputImg: "ddl/input/22.png", outputImg: "ddl/output/22.png" },
+    { id: 512, category: "DDL Commands", title: "Drop the table PROJECT permanently.", inputImg: "ddl/input/23.png", outputImg: "ddl/output/23.png" },
+    { id: 513, category: "DDL Commands", title: "Remove the table SALES.", inputImg: "ddl/input/24.png", outputImg: "ddl/output/24.png" },
+    { id: 514, category: "DDL Commands", title: "Drop the table COURSE.", inputImg: "ddl/input/25.png", outputImg: "ddl/output/25.png" },
+
+    { id: 515, category: "DDL Commands", title: "Rename the table STUDENT to STUDENTS.", inputImg: "ddl/input/26.png", outputImg: "ddl/output/26.png" },
+    { id: 516, category: "DDL Commands", title: "Rename the table EMPLOYEE to EMP_MASTER.", inputImg: "ddl/input/27.png", outputImg: "ddl/output/27.png" },
+    { id: 517, category: "DDL Commands", title: "Rename the table CUSTOMER to CLIENT.", inputImg: "ddl/input/28.png", outputImg: "ddl/output/28.png" },
+    { id: 518, category: "DDL Commands", title: "Rename the table BOOK to BOOK_DETAILS.", inputImg: "ddl/input/29.png", outputImg: "ddl/output/29.png" },
+    { id: 519, category: "DDL Commands", title: "Rename the table PROJECT to PROJECT_INFO.", inputImg: "ddl/input/30.png", outputImg: "ddl/output/30.png" },
+
+    { id: 520, category: "DDL Commands", title: "Remove all records from the STUDENT table.", inputImg: "ddl/input/31.png", outputImg: "ddl/output/31.png" },
+    { id: 521, category: "DDL Commands", title: "Delete all rows from EMPLOYEE table using TRUNCATE.", inputImg: "ddl/input/32.png", outputImg: "ddl/output/32.png" },
+    { id: 522, category: "DDL Commands", title: "Empty the CUSTOMER table quickly.", inputImg: "ddl/input/33.png", outputImg: "ddl/output/33.png" },
+    { id: 523, category: "DDL Commands", title: "Remove all data from SALES table but keep structure.", inputImg: "ddl/input/34.png", outputImg: "ddl/output/34.png" },
+    { id: 524, category: "DDL Commands", title: "Clear the PROJECT table.", inputImg: "ddl/input/35.png", outputImg: "ddl/output/35.png" },
+
+    { id: 525, category: "DDL Commands", title: "Create a table TRAINING with columns TID, TNAME, DURATION.", inputImg: "ddl/input/36.png", outputImg: "ddl/output/36.png" },
+    { id: 526, category: "DDL Commands", title: "Add column TRAINER_NAME VARCHAR2(40) to TRAINING.", inputImg: "ddl/input/37.png", outputImg: "ddl/output/37.png" },
+    { id: 527, category: "DDL Commands", title: "Modify TNAME column size to VARCHAR2(60).", inputImg: "ddl/input/38.png", outputImg: "ddl/output/38.png" },
+    { id: 528, category: "DDL Commands", title: "Rename the TRAINING table to TRAINING_PROGRAM.", inputImg: "ddl/input/39.png", outputImg: "ddl/output/39.png" },
+    { id: 529, category: "DDL Commands", title: "Truncate the TRAINING_PROGRAM table.", inputImg: "ddl/input/40.png", outputImg: "ddl/output/40.png" },
+
+    { id: 530, category: "DDL Commands", title: "Display employee name as Name whose name starts with S, ordered alphabetically.", inputImg: "ddl/input/41.png", outputImg: "ddl/output/41.png" }
+];
