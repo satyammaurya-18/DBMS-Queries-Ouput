@@ -1100,3 +1100,17 @@ const dmlData = [
     { id: 559, category: "DML Commands", title: "Delete employees working in departments located in NEW YORK.", inputImg: "dml/input/29.png", outputImg: "dml/output/29.png" },
     { id: 560, category: "DML Commands", title: "Delete employees whose manager number is NULL.", inputImg: "dml/input/30.png", outputImg: "dml/output/30.png" }
 ];
+
+const dqlData = [
+    { id: 561, category: "DQL Commands", title: "Display all records from the EMP table.", inputImg: "dql/input/1.png", outputImg: "dql/output/1.png" },
+    { id: 562, category: "DQL Commands", title: "Display EMPNO, ENAME, and SAL of all employees from the EMP table.", inputImg: "dql/input/2.png", outputImg: "dql/output/2.png" },
+    { id: 563, category: "DQL Commands", title: "Display names of all employees from the EMP table.", inputImg: "dql/input/3.png", outputImg: "dql/output/3.png" },
+    { id: 564, category: "DQL Commands", title: "Display employee details working as MANAGER from the EMP table.", inputImg: "dql/input/4.png", outputImg: "dql/output/4.png" },
+    { id: 565, category: "DQL Commands", title: "Display all records from the DEPT table.", inputImg: "dql/input/5.png", outputImg: "dql/output/5.png" },
+
+    { id: 566, category: "DQL Commands", title: "Display employees working in department 10 from the EMP table.", inputImg: "dql/input/6.png", outputImg: "dql/output/6.png" },
+    { id: 567, category: "DQL Commands", title: "Display employee name and annual salary (SAL * 12) from the EMP table.", inputImg: "dql/input/7.png", outputImg: "dql/output/7.png" },
+    { id: 568, category: "DQL Commands", title: "Display employees whose salary is greater than 3000 from the EMP table.", inputImg: "dql/input/8.png", outputImg: "dql/output/8.png" },
+    { id: 569, category: "DQL Commands", title: "Display employees hired after 1981 from the EMP table.", inputImg: "dql/input/9.png", outputImg: "dql/output/9.png" },
+    { id: 570, category: "DQL Commands", title: "Display employees whose commission is NULL from the EMP table.", inputImg: "dql/input/10.png", outputImg: "dql/output/10.png" }
+];
