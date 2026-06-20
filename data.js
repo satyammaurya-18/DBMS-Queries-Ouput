@@ -1269,3 +1269,26 @@ const iterativeData = [
     { id: 689, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to simulate ATM withdrawal attempts (3 attempts using loop).", inputImg: "iterative/input/31.png", outputImg: "iterative/output/31.png" },
     { id: 690, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to calculate sum of even and odd numbers separately using loop.", inputImg: "iterative/input/32.png", outputImg: "iterative/output/32.png" }
 ];
+
+const percentageData = [
+    { id: 691, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to fetch employee name from EMP table for empno = 7369 and display it.", inputImg: "percentage/input/1.png", outputImg: "percentage/output/1.png" },
+    { id: 692, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to retrieve salary of an employee and print it.", inputImg: "percentage/input/2.png", outputImg: "percentage/output/2.png" },
+    { id: 693, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to fetch employee name and job using a single SELECT statement.", inputImg: "percentage/input/3.png", outputImg: "percentage/output/3.png" },
+    { id: 694, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to display department number of an employee using SELECT INTO.", inputImg: "percentage/input/4.png", outputImg: "percentage/output/4.png" },
+    { id: 695, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to fetch hiredate of an employee and display it.", inputImg: "percentage/input/5.png", outputImg: "percentage/output/5.png" },
+
+    { id: 696, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to count total number of employees using SELECT INTO.", inputImg: "percentage/input/6.png", outputImg: "percentage/output/6.png" },
+    { id: 697, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to declare a variable using %TYPE based on EMP.SAL and display salary.", inputImg: "percentage/input/7.png", outputImg: "percentage/output/7.png" },
+    { id: 698, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to declare variables for employee name and job using %TYPE.", inputImg: "percentage/input/8.png", outputImg: "percentage/output/8.png" },
+    { id: 699, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to fetch salary using %TYPE variable and display it.", inputImg: "percentage/input/9.png", outputImg: "percentage/output/9.png" },
+    { id: 700, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to calculate annual salary using %TYPE variable.", inputImg: "percentage/input/10.png", outputImg: "percentage/output/10.png" },
+
+    { id: 701, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to update salary using %TYPE variable.", inputImg: "percentage/input/11.png", outputImg: "percentage/output/11.png" },
+    { id: 702, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to declare a variable using %TYPE from DEPT table.", inputImg: "percentage/input/12.png", outputImg: "percentage/output/12.png" },
+    { id: 703, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to declare a record using %ROWTYPE for EMP table.", inputImg: "percentage/input/13.png", outputImg: "percentage/output/13.png" },
+    { id: 704, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to fetch complete employee record using %ROWTYPE and display fields.", inputImg: "percentage/input/14.png", outputImg: "percentage/output/14.png" },
+    { id: 705, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to display employee name, salary, and job using %ROWTYPE.", inputImg: "percentage/input/15.png", outputImg: "percentage/output/15.png" },
+
+    { id: 706, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to update salary using %ROWTYPE variable.", inputImg: "percentage/input/16.png", outputImg: "percentage/output/16.png" },
+    { id: 707, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to insert a record using %ROWTYPE.", inputImg: "percentage/input/17.png", outputImg: "percentage/output/17.png" }
+];
