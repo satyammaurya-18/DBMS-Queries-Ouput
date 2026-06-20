@@ -1159,3 +1159,32 @@ const tdData = [
     { id: 604, category: "TCL & DCL Commands", title: "Grant privileges to a user, perform DML operations, and commit changes.", inputImg: "t&d/input/34.png", outputImg: "t&d/output/34.png" },
     { id: 605, category: "TCL & DCL Commands", title: "Revoke privileges and verify access restrictions using EMP table.", inputImg: "t&d/input/35.png", outputImg: "t&d/output/35.png" }
 ];
+
+const basicData = [
+    { id: 606, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to print your name and city in two separate lines.", inputImg: "basic/input/1.png", outputImg: "basic/output/1.png" },
+    { id: 607, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to display numbers from 1 to 5 using DBMS_OUTPUT.PUT_LINE.", inputImg: "basic/input/2.png", outputImg: "basic/output/2.png" },
+    { id: 608, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to print the current system date.", inputImg: "basic/input/3.png", outputImg: "basic/output/3.png" },
+    { id: 609, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to display employee name and salary (use variables).", inputImg: "basic/input/4.png", outputImg: "basic/output/4.png" },
+    { id: 610, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to declare a variable and assign your age, then display it.", inputImg: "basic/input/5.png", outputImg: "basic/output/5.png" },
+
+    { id: 611, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to declare two variables and print their sum.", inputImg: "basic/input/6.png", outputImg: "basic/output/6.png" },
+    { id: 612, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to store employee name and salary in variables and display them.", inputImg: "basic/input/7.png", outputImg: "basic/output/7.png" },
+    { id: 613, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to swap two numbers using variables.", inputImg: "basic/input/8.png", outputImg: "basic/output/8.png" },
+    { id: 614, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to calculate area of a rectangle using variables.", inputImg: "basic/input/9.png", outputImg: "basic/output/9.png" },
+    { id: 615, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to declare a constant value for PI and calculate area of a circle.", inputImg: "basic/input/10.png", outputImg: "basic/output/10.png" },
+
+    { id: 616, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to declare a constant tax rate and calculate total salary after tax.", inputImg: "basic/input/11.png", outputImg: "basic/output/11.png" },
+    { id: 617, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block where constant value cannot be changed (try modifying and observe error).", inputImg: "basic/input/12.png", outputImg: "basic/output/12.png" },
+    { id: 618, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to calculate simple interest using constant rate of interest.", inputImg: "basic/input/13.png", outputImg: "basic/output/13.png" },
+    { id: 619, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block using different datatypes: NUMBER, VARCHAR2, DATE.", inputImg: "basic/input/14.png", outputImg: "basic/output/14.png" },
+    { id: 620, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to declare a variable using %TYPE from EMP table salary column.", inputImg: "basic/input/15.png", outputImg: "basic/output/15.png" },
+
+    { id: 621, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to declare a record using %ROWTYPE and display employee details.", inputImg: "basic/input/16.png", outputImg: "basic/output/16.png" },
+    { id: 622, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to store and display current date using DATE datatype.", inputImg: "basic/input/17.png", outputImg: "basic/output/17.png" },
+    { id: 623, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to convert number to string and display it.", inputImg: "basic/input/18.png", outputImg: "basic/output/18.png" },
+    { id: 624, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block using variables, constants, and output statement together.", inputImg: "basic/input/19.png", outputImg: "basic/output/19.png" },
+    { id: 625, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to display employee details using %ROWTYPE, constants, and comments.", inputImg: "basic/input/20.png", outputImg: "basic/output/20.png" },
+
+    { id: 626, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to calculate bonus (10% of salary) and display result using proper comments.", inputImg: "basic/input/21.png", outputImg: "basic/output/21.png" },
+    { id: 627, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block that uses all concepts: variable, constant, datatype, and output.", inputImg: "basic/input/22.png", outputImg: "basic/output/22.png" }
+];
