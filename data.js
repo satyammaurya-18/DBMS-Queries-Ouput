@@ -1253,3 +1253,19 @@ const iterativeData = [
     { id: 676, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to display all odd numbers between 1 and 50.", inputImg: "iterative/input/18.png", outputImg: "iterative/output/18.png" },
     { id: 677, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print a pattern using nested loops: *, **, ***, ****.", inputImg: "iterative/input/19.png", outputImg: "iterative/output/19.png" },
     { id: 678, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print multiplication tables from 1 to 5.", inputImg: "iterative/input/20.png", outputImg: "iterative/output/20.png" },
+
+    { id: 679, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to display a number pattern:\n1\n12\n123\n1234", inputImg: "iterative/input/21.png", outputImg: "iterative/output/21.png" },
+    { id: 680, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers from 1 to 20 but skip multiples of 4.", inputImg: "iterative/input/22.png", outputImg: "iterative/output/22.png" },
+    { id: 681, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to stop printing numbers once the sum exceeds 100.", inputImg: "iterative/input/23.png", outputImg: "iterative/output/23.png" },
+    { id: 682, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers and exit when number divisible by 7 is found.", inputImg: "iterative/input/24.png", outputImg: "iterative/output/24.png" },
+    { id: 683, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to loop through employee IDs from EMP table and display them.", inputImg: "iterative/input/25.png", outputImg: "iterative/output/25.png" },
+
+    { id: 684, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to increase salary of employees by 10% using loop.", inputImg: "iterative/input/26.png", outputImg: "iterative/output/26.png" },
+    { id: 685, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to display employees whose salary is greater than 3000 using loop.", inputImg: "iterative/input/27.png", outputImg: "iterative/output/27.png" },
+    { id: 686, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to count total number of employees using loop.", inputImg: "iterative/input/28.png", outputImg: "iterative/output/28.png" },
+    { id: 687, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block using all three loops (SIMPLE, WHILE, FOR) in one program.", inputImg: "iterative/input/29.png", outputImg: "iterative/output/29.png" },
+    { id: 688, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to generate prime numbers between 1 and 50.", inputImg: "iterative/input/30.png", outputImg: "iterative/output/30.png" },
+
+    { id: 689, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to simulate ATM withdrawal attempts (3 attempts using loop).", inputImg: "iterative/input/31.png", outputImg: "iterative/output/31.png" },
+    { id: 690, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to calculate sum of even and odd numbers separately using loop.", inputImg: "iterative/input/32.png", outputImg: "iterative/output/32.png" }
+];
