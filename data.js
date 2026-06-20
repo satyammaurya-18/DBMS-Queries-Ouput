@@ -1228,3 +1228,28 @@ const decisionData = [
 
     { id: 658, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to simulate a login system (check username & password using IF-ELSE).", inputImg: "decision/input/31.png", outputImg: "decision/output/31.png" }
 ];
+
+const iterativeData = [
+    { id: 659, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers from 1 to 5 using SIMPLE LOOP.", inputImg: "iterative/input/1.png", outputImg: "iterative/output/1.png" },
+    { id: 660, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to display numbers from 10 to 1 in reverse order.", inputImg: "iterative/input/2.png", outputImg: "iterative/output/2.png" },
+    { id: 661, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to calculate the sum of numbers from 1 to 10.", inputImg: "iterative/input/3.png", outputImg: "iterative/output/3.png" },
+    { id: 662, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print multiplication table of a number using SIMPLE LOOP.", inputImg: "iterative/input/4.png", outputImg: "iterative/output/4.png" },
+    { id: 663, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print even numbers between 1 and 20.", inputImg: "iterative/input/5.png", outputImg: "iterative/output/5.png" },
+
+    { id: 664, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block that exits the loop when a number becomes greater than 50.", inputImg: "iterative/input/6.png", outputImg: "iterative/output/6.png" },
+    { id: 665, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers from 1 to 10 using WHILE LOOP.", inputImg: "iterative/input/7.png", outputImg: "iterative/output/7.png" },
+    { id: 666, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to calculate factorial of a number using WHILE LOOP.", inputImg: "iterative/input/8.png", outputImg: "iterative/output/8.png" },
+    { id: 667, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to display sum of digits of a number using WHILE LOOP.", inputImg: "iterative/input/9.png", outputImg: "iterative/output/9.png" },
+    { id: 668, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to reverse a number using WHILE LOOP.", inputImg: "iterative/input/10.png", outputImg: "iterative/output/10.png" },
+
+    { id: 669, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to check whether a number is palindrome using WHILE LOOP.", inputImg: "iterative/input/11.png", outputImg: "iterative/output/11.png" },
+    { id: 670, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print Fibonacci series up to N terms using WHILE LOOP.", inputImg: "iterative/input/12.png", outputImg: "iterative/output/12.png" },
+    { id: 671, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers from 1 to 10 using FOR LOOP.", inputImg: "iterative/input/13.png", outputImg: "iterative/output/13.png" },
+    { id: 672, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers in reverse order using FOR LOOP.", inputImg: "iterative/input/14.png", outputImg: "iterative/output/14.png" },
+    { id: 673, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to calculate sum of first 10 natural numbers using FOR LOOP.", inputImg: "iterative/input/15.png", outputImg: "iterative/output/15.png" },
+
+    { id: 674, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to display multiplication table of 5 using FOR LOOP.", inputImg: "iterative/input/16.png", outputImg: "iterative/output/16.png" },
+    { id: 675, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print squares of numbers from 1 to 10.", inputImg: "iterative/input/17.png", outputImg: "iterative/output/17.png" },
+    { id: 676, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to display all odd numbers between 1 and 50.", inputImg: "iterative/input/18.png", outputImg: "iterative/output/18.png" },
+    { id: 677, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print a pattern using nested loops: *, **, ***, ****.", inputImg: "iterative/input/19.png", outputImg: "iterative/output/19.png" },
+    { id: 678, category: "PL/SQL: ITERATIVE CONTROL STATEMENT", title: "Write a PL/SQL block to print multiplication tables from 1 to 5.", inputImg: "iterative/input/20.png", outputImg: "iterative/output/20.png" },
