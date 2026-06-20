@@ -1219,3 +1219,12 @@ const decisionData = [
     { id: 650, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to skip multiples of 3 while printing numbers 1–15.", inputImg: "decision/input/23.png", outputImg: "decision/output/23.png" },
     { id: 651, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to skip employees with salary less than 2000 (use loop).", inputImg: "decision/input/24.png", outputImg: "decision/output/24.png" },
     { id: 652, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to exit loop when number reaches 5.", inputImg: "decision/input/25.png", outputImg: "decision/output/25.png" },
+
+    { id: 653, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers until sum exceeds 50, then exit.", inputImg: "decision/input/26.png", outputImg: "decision/output/26.png" },
+    { id: 654, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to exit loop when a negative number is encountered.", inputImg: "decision/input/27.png", outputImg: "decision/output/27.png" },
+    { id: 655, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block using EXIT WHEN to stop loop when condition is met.", inputImg: "decision/input/28.png", outputImg: "decision/output/28.png" },
+    { id: 656, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block using IF-ELSIF and CASE together.", inputImg: "decision/input/29.png", outputImg: "decision/output/29.png" },
+    { id: 657, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to process employee salaries using LOOP, CONTINUE, and EXIT.", inputImg: "decision/input/30.png", outputImg: "decision/output/30.png" },
+
+    { id: 658, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to simulate a login system (check username & password using IF-ELSE).", inputImg: "decision/input/31.png", outputImg: "decision/output/31.png" }
+];
