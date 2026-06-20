@@ -1188,3 +1188,34 @@ const basicData = [
     { id: 626, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block to calculate bonus (10% of salary) and display result using proper comments.", inputImg: "basic/input/21.png", outputImg: "basic/output/21.png" },
     { id: 627, category: "PL/SQL: OUTPUT STATEMENT, DATATYPES, VARIABLES, CONSTANTS", title: "Write a PL/SQL block that uses all concepts: variable, constant, datatype, and output.", inputImg: "basic/input/22.png", outputImg: "basic/output/22.png" }
 ];
+
+const decisionData = [
+    { id: 628, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check if a number is positive.", inputImg: "decision/input/1.png", outputImg: "decision/output/1.png" },
+    { id: 629, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check if an employee’s salary is greater than 3000.", inputImg: "decision/input/2.png", outputImg: "decision/output/2.png" },
+    { id: 630, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check if a given number is even.", inputImg: "decision/input/3.png", outputImg: "decision/output/3.png" },
+    { id: 631, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to display a message if today is Monday.", inputImg: "decision/input/4.png", outputImg: "decision/output/4.png" },
+    { id: 632, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check if a number is divisible by 5.", inputImg: "decision/input/5.png", outputImg: "decision/output/5.png" },
+
+    { id: 633, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check whether a number is even or odd.", inputImg: "decision/input/6.png", outputImg: "decision/output/6.png" },
+    { id: 634, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check whether a number is positive or negative.", inputImg: "decision/input/7.png", outputImg: "decision/output/7.png" },
+    { id: 635, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to compare two numbers and display the greater one.", inputImg: "decision/input/8.png", outputImg: "decision/output/8.png" },
+    { id: 636, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check whether a student passed (marks ≥ 40) or failed.", inputImg: "decision/input/9.png", outputImg: "decision/output/9.png" },
+    { id: 637, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check if salary is above average (use fixed value).", inputImg: "decision/input/10.png", outputImg: "decision/output/10.png" },
+
+    { id: 638, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to assign grades based on marks: ≥80 → A, ≥60 → B, ≥40 → C, else → Fail.", inputImg: "decision/input/11.png", outputImg: "decision/output/11.png" },
+    { id: 639, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to find the greatest of three numbers.", inputImg: "decision/input/12.png", outputImg: "decision/output/12.png" },
+    { id: 640, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to check if a number is Positive, Negative, or Zero.", inputImg: "decision/input/13.png", outputImg: "decision/output/13.png" },
+    { id: 641, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to categorize salary: High (>5000), Medium (3000–5000), Low (<3000).", inputImg: "decision/input/14.png", outputImg: "decision/output/14.png" },
+    { id: 642, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to calculate bonus based on job role.", inputImg: "decision/input/15.png", outputImg: "decision/output/15.png" },
+
+    { id: 643, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block using CASE to display day of week based on number (1–7).", inputImg: "decision/input/16.png", outputImg: "decision/output/16.png" },
+    { id: 644, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block using CASE to assign grades based on marks.", inputImg: "decision/input/17.png", outputImg: "decision/output/17.png" },
+    { id: 645, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block using CASE to check whether a number is even or odd.", inputImg: "decision/input/18.png", outputImg: "decision/output/18.png" },
+    { id: 646, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block using CASE to display department name based on department id.", inputImg: "decision/input/19.png", outputImg: "decision/output/19.png" },
+    { id: 647, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block using CASE to categorize salary (High/Medium/Low).", inputImg: "decision/input/20.png", outputImg: "decision/output/20.png" },
+
+    { id: 648, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to print numbers from 1 to 10 but skip number 5 using CONTINUE.", inputImg: "decision/input/21.png", outputImg: "decision/output/21.png" },
+    { id: 649, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to display only odd numbers between 1 and 20 using CONTINUE.", inputImg: "decision/input/22.png", outputImg: "decision/output/22.png" },
+    { id: 650, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to skip multiples of 3 while printing numbers 1–15.", inputImg: "decision/input/23.png", outputImg: "decision/output/23.png" },
+    { id: 651, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to skip employees with salary less than 2000 (use loop).", inputImg: "decision/input/24.png", outputImg: "decision/output/24.png" },
+    { id: 652, category: "PL/SQL: DECISION CONTROL STATEMENT", title: "Write a PL/SQL block to exit loop when number reaches 5.", inputImg: "decision/input/25.png", outputImg: "decision/output/25.png" },
