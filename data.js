@@ -1317,3 +1317,16 @@ const cursorData = [
     { id: 725, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to increase salary by 10% for employees using WHERE CURRENT OF.", inputImg: "cursor/input/18.png", outputImg: "cursor/output/18.png" },
     { id: 726, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to delete employees with salary less than 2000 using cursor.", inputImg: "cursor/input/19.png", outputImg: "cursor/output/19.png" },
     { id: 727, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to update job of employees using updatable cursor.", inputImg: "cursor/input/20.png", outputImg: "cursor/output/20.png" },
+
+    { id: 728, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to fetch records using cursor and modify values row-by-row.", inputImg: "cursor/input/21.png", outputImg: "cursor/output/21.png" },
+    { id: 729, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block using explicit cursor and IF condition to display high salary employees.", inputImg: "cursor/input/22.png", outputImg: "cursor/output/22.png" },
+    { id: 730, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block using cursor FOR LOOP and calculate bonus (10% of salary).", inputImg: "cursor/input/23.png", outputImg: "cursor/output/23.png" },
+    { id: 731, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block using parameterized cursor and loop through multiple departments.", inputImg: "cursor/input/24.png", outputImg: "cursor/output/24.png" },
+    { id: 732, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to update and display employee data using updatable cursor.", inputImg: "cursor/input/25.png", outputImg: "cursor/output/25.png" },
+
+    { id: 733, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display top 3 highest paid employees using cursor.", inputImg: "cursor/input/26.png", outputImg: "cursor/output/26.png" },
+    { id: 734, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to simulate pagination (fetch limited rows using cursor).", inputImg: "cursor/input/27.png", outputImg: "cursor/output/27.png" },
+    { id: 735, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to copy employee data into another table using cursor.", inputImg: "cursor/input/28.png", outputImg: "cursor/output/28.png" },
+    { id: 736, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display department-wise employee count using cursor.", inputImg: "cursor/input/29.png", outputImg: "cursor/output/29.png" },
+    { id: 737, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to process employee records and apply different salary increments based on job using cursor.", inputImg: "cursor/input/30.png", outputImg: "cursor/output/30.png" }
+];
