@@ -1292,3 +1292,28 @@ const percentageData = [
     { id: 706, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to update salary using %ROWTYPE variable.", inputImg: "percentage/input/16.png", outputImg: "percentage/output/16.png" },
     { id: 707, category: "PL/SQL: SELECT, %TYPE AND %ROWTYPE", title: "Write a PL/SQL block to insert a record using %ROWTYPE.", inputImg: "percentage/input/17.png", outputImg: "percentage/output/17.png" }
 ];
+
+const cursorData = [
+    { id: 708, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to declare a cursor to fetch all employees from EMP table and display their names.", inputImg: "cursor/input/1.png", outputImg: "cursor/output/1.png" },
+    { id: 709, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to fetch employee name and salary using cursor and display them.", inputImg: "cursor/input/2.png", outputImg: "cursor/output/2.png" },
+    { id: 710, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display employees whose salary is greater than 3000 using cursor.", inputImg: "cursor/input/3.png", outputImg: "cursor/output/3.png" },
+    { id: 711, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to count number of employees using cursor.", inputImg: "cursor/input/4.png", outputImg: "cursor/output/4.png" },
+    { id: 712, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to calculate total salary of all employees using cursor.", inputImg: "cursor/input/5.png", outputImg: "cursor/output/5.png" },
+
+    { id: 713, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to fetch records one by one using OPEN, FETCH, and CLOSE.", inputImg: "cursor/input/6.png", outputImg: "cursor/output/6.png" },
+    { id: 714, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display all employee records using cursor FOR LOOP.", inputImg: "cursor/input/7.png", outputImg: "cursor/output/7.png" },
+    { id: 715, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display employee names and jobs using cursor FOR LOOP.", inputImg: "cursor/input/8.png", outputImg: "cursor/output/8.png" },
+    { id: 716, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display employees from department 10 using cursor FOR LOOP.", inputImg: "cursor/input/9.png", outputImg: "cursor/output/9.png" },
+    { id: 717, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to calculate total salary using cursor FOR LOOP.", inputImg: "cursor/input/10.png", outputImg: "cursor/output/10.png" },
+
+    { id: 718, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display employees with salary greater than average using cursor FOR LOOP.", inputImg: "cursor/input/11.png", outputImg: "cursor/output/11.png" },
+    { id: 719, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to declare a parameterized cursor that takes department number and displays employees of that department.", inputImg: "cursor/input/12.png", outputImg: "cursor/output/12.png" },
+    { id: 720, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to fetch employees whose salary is greater than a given value using parameterized cursor.", inputImg: "cursor/input/13.png", outputImg: "cursor/output/13.png" },
+    { id: 721, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display employees based on job role using parameterized cursor.", inputImg: "cursor/input/14.png", outputImg: "cursor/output/14.png" },
+    { id: 722, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to calculate total salary of a given department using parameterized cursor.", inputImg: "cursor/input/15.png", outputImg: "cursor/output/15.png" },
+
+    { id: 723, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to pass multiple parameters (deptno, job) to cursor and display matching records.", inputImg: "cursor/input/16.png", outputImg: "cursor/output/16.png" },
+    { id: 724, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to update salary of employees using cursor with FOR UPDATE.", inputImg: "cursor/input/17.png", outputImg: "cursor/output/17.png" },
+    { id: 725, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to increase salary by 10% for employees using WHERE CURRENT OF.", inputImg: "cursor/input/18.png", outputImg: "cursor/output/18.png" },
+    { id: 726, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to delete employees with salary less than 2000 using cursor.", inputImg: "cursor/input/19.png", outputImg: "cursor/output/19.png" },
+    { id: 727, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to update job of employees using updatable cursor.", inputImg: "cursor/input/20.png", outputImg: "cursor/output/20.png" },
