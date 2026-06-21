@@ -1372,3 +1372,22 @@ const procedureData = [
     { id: 769, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a procedure to implement transaction (COMMIT / ROLLBACK).", inputImg: "procedure/input/32.png", outputImg: "procedure/output/32.png" },
     { id: 770, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function that returns department-wise total salary.", inputImg: "procedure/input/33.png", outputImg: "procedure/output/33.png" }
 ];
+
+const packageData = [
+    { id: 771, category: "PL/SQL: PACKAGES", title: "Write a package specification and body to display 'Hello Oracle'.", inputImg: "package/input/1.png", outputImg: "package/output/1.png" },
+    { id: 772, category: "PL/SQL: PACKAGES", title: "Create a package with one procedure to display employee details.", inputImg: "package/input/2.png", outputImg: "package/output/2.png" },
+    { id: 773, category: "PL/SQL: PACKAGES", title: "Create a package containing a function to return square of a number.", inputImg: "package/input/3.png", outputImg: "package/output/3.png" },
+    { id: 774, category: "PL/SQL: PACKAGES", title: "Write a package with both procedure and function.", inputImg: "package/input/4.png", outputImg: "package/output/4.png" },
+    { id: 775, category: "PL/SQL: PACKAGES", title: "Create a package to group employee-related operations.", inputImg: "package/input/5.png", outputImg: "package/output/5.png" },
+
+    { id: 776, category: "PL/SQL: PACKAGES", title: "Create a package with a global variable and display its value.", inputImg: "package/input/6.png", outputImg: "package/output/6.png" },
+    { id: 777, category: "PL/SQL: PACKAGES", title: "Write a package to store company name as constant and display it.", inputImg: "package/input/7.png", outputImg: "package/output/7.png" },
+    { id: 778, category: "PL/SQL: PACKAGES", title: "Create a package that uses a variable to count number of procedure calls.", inputImg: "package/input/8.png", outputImg: "package/output/8.png" },
+    { id: 779, category: "PL/SQL: PACKAGES", title: "Write a package with a global variable used in multiple procedures.", inputImg: "package/input/9.png", outputImg: "package/output/9.png" },
+    { id: 780, category: "PL/SQL: PACKAGES", title: "Create a package procedure to fetch employee details using empno.", inputImg: "package/input/10.png", outputImg: "package/output/10.png" },
+
+    { id: 781, category: "PL/SQL: PACKAGES", title: "Create a package procedure to insert employee record.", inputImg: "package/input/11.png", outputImg: "package/output/11.png" },
+    { id: 782, category: "PL/SQL: PACKAGES", title: "Create a package procedure to update employee salary.", inputImg: "package/input/12.png", outputImg: "package/output/12.png" },
+    { id: 783, category: "PL/SQL: PACKAGES", title: "Create a package procedure to delete employee record.", inputImg: "package/input/13.png", outputImg: "package/output/13.png" },
+    { id: 784, category: "PL/SQL: PACKAGES", title: "Create a package procedure to increase salary of all employees by 10%.", inputImg: "package/input/14.png", outputImg: "package/output/14.png" },
+    { id: 785, category: "PL/SQL: PACKAGES", title: "Create a package function to return employee salary.", inputImg: "package/input/15.png", outputImg: "package/output/15.png" },
