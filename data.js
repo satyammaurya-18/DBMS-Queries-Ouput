@@ -1330,3 +1330,28 @@ const cursorData = [
     { id: 736, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to display department-wise employee count using cursor.", inputImg: "cursor/input/29.png", outputImg: "cursor/output/29.png" },
     { id: 737, category: "PL/SQL: CURSORS", title: "Write a PL/SQL block to process employee records and apply different salary increments based on job using cursor.", inputImg: "cursor/input/30.png", outputImg: "cursor/output/30.png" }
 ];
+
+const procedureData = [
+    { id: 738, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to display \"Hello Oracle\" using DBMS_OUTPUT.", inputImg: "procedure/input/1.png", outputImg: "procedure/output/1.png" },
+    { id: 739, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to display employee name for a given empno.", inputImg: "procedure/input/2.png", outputImg: "procedure/output/2.png" },
+    { id: 740, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to print salary of an employee.", inputImg: "procedure/input/3.png", outputImg: "procedure/output/3.png" },
+    { id: 741, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to display all employees using cursor.", inputImg: "procedure/input/4.png", outputImg: "procedure/output/4.png" },
+    { id: 742, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to display department details.", inputImg: "procedure/input/5.png", outputImg: "procedure/output/5.png" },
+
+    { id: 743, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure that takes empno as input and displays employee details.", inputImg: "procedure/input/6.png", outputImg: "procedure/output/6.png" },
+    { id: 744, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure that takes department number and displays employees of that department.", inputImg: "procedure/input/7.png", outputImg: "procedure/output/7.png" },
+    { id: 745, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure that takes salary as input and displays employees earning more than that.", inputImg: "procedure/input/8.png", outputImg: "procedure/output/8.png" },
+    { id: 746, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure with OUT parameter to return employee salary.", inputImg: "procedure/input/9.png", outputImg: "procedure/output/9.png" },
+    { id: 747, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure with IN OUT parameter to update salary and return new salary.", inputImg: "procedure/input/10.png", outputImg: "procedure/output/10.png" },
+
+    { id: 748, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to insert a new employee record.", inputImg: "procedure/input/11.png", outputImg: "procedure/output/11.png" },
+    { id: 749, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to update employee salary based on empno.", inputImg: "procedure/input/12.png", outputImg: "procedure/output/12.png" },
+    { id: 750, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to delete an employee record.", inputImg: "procedure/input/13.png", outputImg: "procedure/output/13.png" },
+    { id: 751, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to increase salary of all employees by 10%.", inputImg: "procedure/input/14.png", outputImg: "procedure/output/14.png" },
+    { id: 752, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to transfer employees from one department to another.", inputImg: "procedure/input/15.png", outputImg: "procedure/output/15.png" },
+
+    { id: 753, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return square of a number.", inputImg: "procedure/input/16.png", outputImg: "procedure/output/16.png" },
+    { id: 754, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return employee salary based on empno.", inputImg: "procedure/input/17.png", outputImg: "procedure/output/17.png" },
+    { id: 755, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return total number of employees.", inputImg: "procedure/input/18.png", outputImg: "procedure/output/18.png" },
+    { id: 756, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return maximum salary from EMP table.", inputImg: "procedure/input/19.png", outputImg: "procedure/output/19.png" },
+    { id: 757, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return department name based on deptno.", inputImg: "procedure/input/20.png", outputImg: "procedure/output/20.png" },
