@@ -1391,3 +1391,25 @@ const packageData = [
     { id: 783, category: "PL/SQL: PACKAGES", title: "Create a package procedure to delete employee record.", inputImg: "package/input/13.png", outputImg: "package/output/13.png" },
     { id: 784, category: "PL/SQL: PACKAGES", title: "Create a package procedure to increase salary of all employees by 10%.", inputImg: "package/input/14.png", outputImg: "package/output/14.png" },
     { id: 785, category: "PL/SQL: PACKAGES", title: "Create a package function to return employee salary.", inputImg: "package/input/15.png", outputImg: "package/output/15.png" },
+
+    { id: 786, category: "PL/SQL: PACKAGES", title: "Create a package function to return total employees.", inputImg: "package/input/16.png", outputImg: "package/output/16.png" },
+    { id: 787, category: "PL/SQL: PACKAGES", title: "Create a package function to return maximum salary.", inputImg: "package/input/17.png", outputImg: "package/output/17.png" },
+    { id: 788, category: "PL/SQL: PACKAGES", title: "Create a package function to calculate bonus (10% of salary).", inputImg: "package/input/18.png", outputImg: "package/output/18.png" },
+    { id: 789, category: "PL/SQL: PACKAGES", title: "Create a package that uses cursor to display all employees.", inputImg: "package/input/19.png", outputImg: "package/output/19.png" },
+    { id: 790, category: "PL/SQL: PACKAGES", title: "Create a package with parameterized cursor to fetch employees by department.", inputImg: "package/input/20.png", outputImg: "package/output/20.png" },
+
+    { id: 791, category: "PL/SQL: PACKAGES", title: "Create a package procedure that loops through employees using cursor FOR LOOP.", inputImg: "package/input/21.png", outputImg: "package/output/21.png" },
+    { id: 792, category: "PL/SQL: PACKAGES", title: "Create a package with private procedure (only in body, not in specification).", inputImg: "package/input/22.png", outputImg: "package/output/22.png" },
+    { id: 793, category: "PL/SQL: PACKAGES", title: "Create a package with overloaded procedures (same name, different parameters).", inputImg: "package/input/23.png", outputImg: "package/output/23.png" },
+    { id: 794, category: "PL/SQL: PACKAGES", title: "Create a package with function overloading.", inputImg: "package/input/24.png", outputImg: "package/output/24.png" },
+    { id: 795, category: "PL/SQL: PACKAGES", title: "Create a package to maintain employee audit logs.", inputImg: "package/input/25.png", outputImg: "package/output/25.png" },
+
+    { id: 796, category: "PL/SQL: PACKAGES", title: "Create a package with initialization block (executed once).", inputImg: "package/input/26.png", outputImg: "package/output/26.png" },
+    { id: 797, category: "PL/SQL: PACKAGES", title: "Create a package to perform all CRUD operations on EMP table.", inputImg: "package/input/27.png", outputImg: "package/output/27.png" },
+    { id: 798, category: "PL/SQL: PACKAGES", title: "Create a package that calculates salary, bonus, and tax using multiple functions.", inputImg: "package/input/28.png", outputImg: "package/output/28.png" },
+    { id: 799, category: "PL/SQL: PACKAGES", title: "Create a package to validate employee data before insert/update.", inputImg: "package/input/29.png", outputImg: "package/output/29.png" },
+    { id: 800, category: "PL/SQL: PACKAGES", title: "Create a package that interacts with multiple tables (EMP, DEPT).", inputImg: "package/input/30.png", outputImg: "package/output/30.png" },
+
+    { id: 801, category: "PL/SQL: PACKAGES", title: "Create a package to simulate banking operations (deposit, withdraw, balance check).", inputImg: "package/input/31.png", outputImg: "package/output/31.png" },
+    { id: 802, category: "PL/SQL: PACKAGES", title: "Create a package that uses exception handling for all operations.", inputImg: "package/input/32.png", outputImg: "package/output/32.png" }
+];
