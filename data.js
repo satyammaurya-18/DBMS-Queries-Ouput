@@ -1355,3 +1355,20 @@ const procedureData = [
     { id: 755, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return total number of employees.", inputImg: "procedure/input/18.png", outputImg: "procedure/output/18.png" },
     { id: 756, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return maximum salary from EMP table.", inputImg: "procedure/input/19.png", outputImg: "procedure/output/19.png" },
     { id: 757, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return department name based on deptno.", inputImg: "procedure/input/20.png", outputImg: "procedure/output/20.png" },
+
+    { id: 758, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to calculate bonus (10% of salary) and return it.", inputImg: "procedure/input/21.png", outputImg: "procedure/output/21.png" },
+    { id: 759, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return grade based on salary.", inputImg: "procedure/input/22.png", outputImg: "procedure/output/22.png" },
+    { id: 760, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to check whether a number is even or odd.", inputImg: "procedure/input/23.png", outputImg: "procedure/output/23.png" },
+    { id: 761, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return annual salary of an employee.", inputImg: "procedure/input/24.png", outputImg: "procedure/output/24.png" },
+    { id: 762, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function to return employee experience (based on hiredate).", inputImg: "procedure/input/25.png", outputImg: "procedure/output/25.png" },
+
+    { id: 763, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a procedure that calls a function to calculate bonus and display result.", inputImg: "procedure/input/26.png", outputImg: "procedure/output/26.png" },
+    { id: 764, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function and use it inside SQL query.", inputImg: "procedure/input/27.png", outputImg: "procedure/output/27.png" },
+    { id: 765, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a procedure that uses function to update salary.", inputImg: "procedure/input/28.png", outputImg: "procedure/output/28.png" },
+    { id: 766, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function that returns highest salary and use it in procedure.", inputImg: "procedure/input/29.png", outputImg: "procedure/output/29.png" },
+    { id: 767, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored procedure to display top 5 highest paid employees.", inputImg: "procedure/input/30.png", outputImg: "procedure/output/30.png" },
+
+    { id: 768, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a stored function to return nth highest salary.", inputImg: "procedure/input/31.png", outputImg: "procedure/output/31.png" },
+    { id: 769, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a procedure to implement transaction (COMMIT / ROLLBACK).", inputImg: "procedure/input/32.png", outputImg: "procedure/output/32.png" },
+    { id: 770, category: "PL/SQL: STORED PROCEDURES, STORED FUNCTIONS", title: "Write a function that returns department-wise total salary.", inputImg: "procedure/input/33.png", outputImg: "procedure/output/33.png" }
+];
