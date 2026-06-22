@@ -1438,3 +1438,13 @@ const exceptionData = [
     { id: 820, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block where exception is handled in inner block and re-raised to outer block.", inputImg: "exception/input/18.png", outputImg: "exception/output/18.png" },
     { id: 821, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to log error and then re-raise it.", inputImg: "exception/input/19.png", outputImg: "exception/output/19.png" },
     { id: 822, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to fetch employee details and handle all possible exceptions.", inputImg: "exception/input/20.png", outputImg: "exception/output/20.png" },
+
+    { id: 823, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block using user-defined exception and RAISE_APPLICATION_ERROR together.", inputImg: "exception/input/21.png", outputImg: "exception/output/21.png" },
+    { id: 824, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to validate salary and raise appropriate exception.", inputImg: "exception/input/22.png", outputImg: "exception/output/22.png" },
+    { id: 825, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to perform division and handle exception using SQLCODE & SQLERRM.", inputImg: "exception/input/23.png", outputImg: "exception/output/23.png" },
+    { id: 826, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to simulate bank withdrawal with exception handling.", inputImg: "exception/input/24.png", outputImg: "exception/output/24.png" },
+    { id: 827, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to validate employee data and raise different exceptions for different errors.", inputImg: "exception/input/25.png", outputImg: "exception/output/25.png" },
+
+    { id: 828, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to log errors into a table using exception handling.", inputImg: "exception/input/26.png", outputImg: "exception/output/26.png" },
+    { id: 829, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to implement nested exception blocks with re-raise mechanism.", inputImg: "exception/input/27.png", outputImg: "exception/output/27.png" }
+];
