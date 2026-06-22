@@ -1448,3 +1448,22 @@ const exceptionData = [
     { id: 828, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to log errors into a table using exception handling.", inputImg: "exception/input/26.png", outputImg: "exception/output/26.png" },
     { id: 829, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to implement nested exception blocks with re-raise mechanism.", inputImg: "exception/input/27.png", outputImg: "exception/output/27.png" }
 ];
+
+const triggerData = [
+    { id: 830, category: "PL/SQL: TRIGGERS", title: "Write a trigger to display a message whenever a record is inserted into EMP table.", inputImg: "trigger/input/1.png", outputImg: "trigger/output/1.png" },
+    { id: 831, category: "PL/SQL: TRIGGERS", title: "Write a trigger that fires before inserting data into EMP table.", inputImg: "trigger/input/2.png", outputImg: "trigger/output/2.png" },
+    { id: 832, category: "PL/SQL: TRIGGERS", title: "Write a trigger that fires after deleting a record from EMP table.", inputImg: "trigger/input/3.png", outputImg: "trigger/output/3.png" },
+    { id: 833, category: "PL/SQL: TRIGGERS", title: "Write a trigger to prevent deletion from EMP table.", inputImg: "trigger/input/4.png", outputImg: "trigger/output/4.png" },
+    { id: 834, category: "PL/SQL: TRIGGERS", title: "Write a trigger to display a message when employee salary is updated.", inputImg: "trigger/input/5.png", outputImg: "trigger/output/5.png" },
+
+    { id: 835, category: "PL/SQL: TRIGGERS", title: "Write a row-level trigger to display old and new salary when salary is updated.", inputImg: "trigger/input/6.png", outputImg: "trigger/output/6.png" },
+    { id: 836, category: "PL/SQL: TRIGGERS", title: "Write a trigger to restrict salary update if new salary is less than old salary.", inputImg: "trigger/input/7.png", outputImg: "trigger/output/7.png" },
+    { id: 837, category: "PL/SQL: TRIGGERS", title: "Write a trigger to automatically set hiredate while inserting employee record.", inputImg: "trigger/input/8.png", outputImg: "trigger/output/8.png" },
+    { id: 838, category: "PL/SQL: TRIGGERS", title: "Write a trigger to increase salary by 5% before updating.", inputImg: "trigger/input/9.png", outputImg: "trigger/output/9.png" },
+    { id: 839, category: "PL/SQL: TRIGGERS", title: "Write a trigger to copy deleted records into another table (audit table).", inputImg: "trigger/input/10.png", outputImg: "trigger/output/10.png" },
+
+    { id: 840, category: "PL/SQL: TRIGGERS", title: "Write a statement-level trigger to display message when any insert occurs on EMP table.", inputImg: "trigger/input/11.png", outputImg: "trigger/output/11.png" },
+    { id: 841, category: "PL/SQL: TRIGGERS", title: "Write a statement-level trigger to log update operations on EMP table.", inputImg: "trigger/input/12.png", outputImg: "trigger/output/12.png" },
+    { id: 842, category: "PL/SQL: TRIGGERS", title: "Write a trigger that fires once for DELETE statement regardless of number of rows.", inputImg: "trigger/input/13.png", outputImg: "trigger/output/13.png" },
+    { id: 843, category: "PL/SQL: TRIGGERS", title: "Write a BEFORE trigger to validate salary before inserting.", inputImg: "trigger/input/14.png", outputImg: "trigger/output/14.png" },
+    { id: 844, category: "PL/SQL: TRIGGERS", title: "Write an AFTER trigger to log inserted employee records.", inputImg: "trigger/input/15.png", outputImg: "trigger/output/15.png" },
