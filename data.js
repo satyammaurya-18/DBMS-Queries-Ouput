@@ -1467,3 +1467,22 @@ const triggerData = [
     { id: 842, category: "PL/SQL: TRIGGERS", title: "Write a trigger that fires once for DELETE statement regardless of number of rows.", inputImg: "trigger/input/13.png", outputImg: "trigger/output/13.png" },
     { id: 843, category: "PL/SQL: TRIGGERS", title: "Write a BEFORE trigger to validate salary before inserting.", inputImg: "trigger/input/14.png", outputImg: "trigger/output/14.png" },
     { id: 844, category: "PL/SQL: TRIGGERS", title: "Write an AFTER trigger to log inserted employee records.", inputImg: "trigger/input/15.png", outputImg: "trigger/output/15.png" },
+
+    { id: 845, category: "PL/SQL: TRIGGERS", title: "Write both BEFORE and AFTER triggers for UPDATE operation.", inputImg: "trigger/input/16.png", outputImg: "trigger/output/16.png" },
+    { id: 846, category: "PL/SQL: TRIGGERS", title: "Write a trigger that fires only when salary > 5000.", inputImg: "trigger/input/17.png", outputImg: "trigger/output/17.png" },
+    { id: 847, category: "PL/SQL: TRIGGERS", title: "Write a trigger to allow insert only during working hours.", inputImg: "trigger/input/18.png", outputImg: "trigger/output/18.png" },
+    { id: 848, category: "PL/SQL: TRIGGERS", title: "Write a trigger to prevent update on weekends.", inputImg: "trigger/input/19.png", outputImg: "trigger/output/19.png" },
+    { id: 849, category: "PL/SQL: TRIGGERS", title: "Write a trigger to maintain audit table for INSERT, UPDATE, DELETE.", inputImg: "trigger/input/20.png", outputImg: "trigger/output/20.png" },
+
+    { id: 850, category: "PL/SQL: TRIGGERS", title: "Write a trigger to generate automatic employee ID.", inputImg: "trigger/input/21.png", outputImg: "trigger/output/21.png" },
+    { id: 851, category: "PL/SQL: TRIGGERS", title: "Write a trigger to enforce referential integrity manually.", inputImg: "trigger/input/22.png", outputImg: "trigger/output/22.png" },
+    { id: 852, category: "PL/SQL: TRIGGERS", title: "Write a trigger to calculate bonus after salary update.", inputImg: "trigger/input/23.png", outputImg: "trigger/output/23.png" },
+    { id: 853, category: "PL/SQL: TRIGGERS", title: "Write a trigger to track number of rows affected.", inputImg: "trigger/input/24.png", outputImg: "trigger/output/24.png" },
+    { id: 854, category: "PL/SQL: TRIGGERS", title: "Write a trigger to prevent duplicate employee names.", inputImg: "trigger/input/25.png", outputImg: "trigger/output/25.png" },
+
+    { id: 855, category: "PL/SQL: TRIGGERS", title: "Write a trigger to log user activity (who updated, when updated).", inputImg: "trigger/input/26.png", outputImg: "trigger/output/26.png" },
+    { id: 856, category: "PL/SQL: TRIGGERS", title: "Write a trigger to restrict salary update beyond 20%.", inputImg: "trigger/input/27.png", outputImg: "trigger/output/27.png" },
+    { id: 857, category: "PL/SQL: TRIGGERS", title: "Write a trigger that calls a procedure from a package.", inputImg: "trigger/input/28.png", outputImg: "trigger/output/28.png" },
+    { id: 858, category: "PL/SQL: TRIGGERS", title: "Write a trigger to maintain history table for salary changes.", inputImg: "trigger/input/29.png", outputImg: "trigger/output/29.png" },
+    { id: 859, category: "PL/SQL: TRIGGERS", title: "Write a compound trigger (advanced Oracle feature).", inputImg: "trigger/input/30.png", outputImg: "trigger/output/30.png" }
+];
