@@ -1486,3 +1486,30 @@ const triggerData = [
     { id: 858, category: "PL/SQL: TRIGGERS", title: "Write a trigger to maintain history table for salary changes.", inputImg: "trigger/input/29.png", outputImg: "trigger/output/29.png" },
     { id: 859, category: "PL/SQL: TRIGGERS", title: "Write a compound trigger (advanced Oracle feature).", inputImg: "trigger/input/30.png", outputImg: "trigger/output/30.png" }
 ];
+
+
+const queryData = [
+    ...selectData,
+    ...whereData,
+    ...likeData,
+    ...groupData,
+    ...subqueryData,
+    ...orderData,
+    ...joinData,
+    ...setData,
+    ...viewData,
+    ...scalarData,
+    ...ddlData,
+    ...dmlData,
+    ...dqlData,
+    ...tdData,
+    ...basicData,
+    ...decisionData,
+    ...iterativeData,
+    ...percentageData,
+    ...cursorData,
+    ...procedureData,
+    ...packageData,
+    ...exceptionData,
+    ...triggerData
+];
