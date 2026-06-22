@@ -1413,3 +1413,28 @@ const packageData = [
     { id: 801, category: "PL/SQL: PACKAGES", title: "Create a package to simulate banking operations (deposit, withdraw, balance check).", inputImg: "package/input/31.png", outputImg: "package/output/31.png" },
     { id: 802, category: "PL/SQL: PACKAGES", title: "Create a package that uses exception handling for all operations.", inputImg: "package/input/32.png", outputImg: "package/output/32.png" }
 ];
+
+const exceptionData = [
+    { id: 803, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to handle NO_DATA_FOUND exception while fetching employee details.", inputImg: "exception/input/1.png", outputImg: "exception/output/1.png" },
+    { id: 804, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to handle TOO_MANY_ROWS exception.", inputImg: "exception/input/2.png", outputImg: "exception/output/2.png" },
+    { id: 805, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to handle ZERO_DIVIDE exception.", inputImg: "exception/input/3.png", outputImg: "exception/output/3.png" },
+    { id: 806, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to handle VALUE_ERROR exception.", inputImg: "exception/input/4.png", outputImg: "exception/output/4.png" },
+    { id: 807, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block with a generic WHEN OTHERS exception handler.", inputImg: "exception/input/5.png", outputImg: "exception/output/5.png" },
+
+    { id: 808, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to display error code and message using SQLCODE and SQLERRM.", inputImg: "exception/input/6.png", outputImg: "exception/output/6.png" },
+    { id: 809, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to capture and display error details when division by zero occurs.", inputImg: "exception/input/7.png", outputImg: "exception/output/7.png" },
+    { id: 810, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to log exception message into a variable and display it.", inputImg: "exception/input/8.png", outputImg: "exception/output/8.png" },
+    { id: 811, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to raise an error if salary is less than 2000 using RAISE_APPLICATION_ERROR.", inputImg: "exception/input/9.png", outputImg: "exception/output/9.png" },
+    { id: 812, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to validate employee age and raise custom error if age < 18.", inputImg: "exception/input/10.png", outputImg: "exception/output/10.png" },
+
+    { id: 813, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to restrict update operation using RAISE_APPLICATION_ERROR.", inputImg: "exception/input/11.png", outputImg: "exception/output/11.png" },
+    { id: 814, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to raise an error when invalid department number is entered.", inputImg: "exception/input/12.png", outputImg: "exception/output/12.png" },
+    { id: 815, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to declare and handle a user-defined exception.", inputImg: "exception/input/13.png", outputImg: "exception/output/13.png" },
+    { id: 816, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to raise a custom exception when salary exceeds limit.", inputImg: "exception/input/14.png", outputImg: "exception/output/14.png" },
+    { id: 817, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to validate input and raise user-defined exception for invalid data.", inputImg: "exception/input/15.png", outputImg: "exception/output/15.png" },
+
+    { id: 818, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to handle multiple user-defined exceptions.", inputImg: "exception/input/16.png", outputImg: "exception/output/16.png" },
+    { id: 819, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to catch an exception and re-raise it using RAISE.", inputImg: "exception/input/17.png", outputImg: "exception/output/17.png" },
+    { id: 820, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block where exception is handled in inner block and re-raised to outer block.", inputImg: "exception/input/18.png", outputImg: "exception/output/18.png" },
+    { id: 821, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to log error and then re-raise it.", inputImg: "exception/input/19.png", outputImg: "exception/output/19.png" },
+    { id: 822, category: "PL/SQL: EXCEPTION HANDLING", title: "Write a PL/SQL block to fetch employee details and handle all possible exceptions.", inputImg: "exception/input/20.png", outputImg: "exception/output/20.png" },
