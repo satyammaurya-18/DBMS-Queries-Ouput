@@ -1,4 +1,4 @@
-<!-- Bannerv -->
+<!-- Banner -->
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/database.png" alt="DBMS Queries Logo" width="90">
 </p>
