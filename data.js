@@ -23,7 +23,7 @@ const categories = [
     "PL/SQL: PACKAGES",
     "PL/SQL: EXCEPTION HANDLING",
     "PL/SQL: TRIGGERS"
-];f
+];
 
 // Your massive list of 500 queries
 const selectData = [
